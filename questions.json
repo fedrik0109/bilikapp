@@ -1,0 +1,7514 @@
+{
+  "title": "Viktorina sualları",
+  "language": "az",
+  "total": 500,
+  "difficultyLevels": {
+    "1": "Çox asan",
+    "2": "Asan",
+    "3": "Orta",
+    "4": "Çətin",
+    "5": "Çox çətin"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Texnologiya",
+      "question": "Kompüterdə kursoru idarə etmək üçün hansı qurğudan istifadə edilir?",
+      "options": [
+        "Kompüter siçanı",
+        "Dinamik",
+        "Skaner",
+        "Mikrofon"
+      ],
+      "answer": "Kompüter siçanı",
+      "answerIndex": 0
+    },
+    {
+      "id": 2,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Gündəlik həyat",
+      "question": "Soyuducunun əsas vəzifəsi nədir?",
+      "options": [
+        "Paltar yumaq",
+        "Yeməkləri soyuq saxlamaq",
+        "Evi isitmək",
+        "Qabları qurutmaq"
+      ],
+      "answer": "Yeməkləri soyuq saxlamaq",
+      "answerIndex": 1
+    },
+    {
+      "id": 3,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Təbiət",
+      "question": "Günəş sistemində ən böyük planet hansıdır?",
+      "options": [
+        "Mars",
+        "Yer",
+        "Yupiter",
+        "Venera"
+      ],
+      "answer": "Yupiter",
+      "answerIndex": 2
+    },
+    {
+      "id": 4,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Heyvanlar",
+      "question": "Gecələr ovlayan və iri gözləri ilə məşhur olan quş hansıdır?",
+      "options": [
+        "Göyərçin",
+        "Sərçə",
+        "Toyuq",
+        "Bayquş"
+      ],
+      "answer": "Bayquş",
+      "answerIndex": 3
+    },
+    {
+      "id": 5,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Gündəlik həyat",
+      "question": "Diş fırçası nə üçün istifadə olunur?",
+      "options": [
+        "Dişləri təmizləmək üçün",
+        "Saçı daramaq üçün",
+        "Ayaqqabını təmizləmək üçün",
+        "Qabları yumaq üçün"
+      ],
+      "answer": "Dişləri təmizləmək üçün",
+      "answerIndex": 0
+    },
+    {
+      "id": 6,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Texnologiya",
+      "question": "Fotoşəkil çəkmək üçün hansı cihazdan istifadə edirik?",
+      "options": [
+        "Mikrofon",
+        "Fotoaparat",
+        "Printer",
+        "Skaner"
+      ],
+      "answer": "Fotoaparat",
+      "answerIndex": 1
+    },
+    {
+      "id": 7,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Yeməklər",
+      "question": "Aşağıdakılardan hansı süddən hazırlanır?",
+      "options": [
+        "Düyü",
+        "Un",
+        "Pendir",
+        "Duz"
+      ],
+      "answer": "Pendir",
+      "answerIndex": 2
+    },
+    {
+      "id": 8,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Maraqlı məlumatlar",
+      "question": "Günəş hansı istiqamətdən doğur?",
+      "options": [
+        "Qərbdən",
+        "Şimaldan",
+        "Cənubdan",
+        "Şərqdən"
+      ],
+      "answer": "Şərqdən",
+      "answerIndex": 3
+    },
+    {
+      "id": 9,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Gündəlik həyat",
+      "question": "Evin qapısını açıb bağlamaq üçün nədən istifadə edirik?",
+      "options": [
+        "Açardan",
+        "Qaşıqdan",
+        "Daraqdan",
+        "Qələmdən"
+      ],
+      "answer": "Açardan",
+      "answerIndex": 0
+    },
+    {
+      "id": 10,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Heyvanlar",
+      "question": "Heyvanlar aləminin “kralı” hesab olunan heyvan hansıdır?",
+      "options": [
+        "Dovşan",
+        "Aslan",
+        "Qarışqa",
+        "Qurbağa"
+      ],
+      "answer": "Aslan",
+      "answerIndex": 1
+    },
+    {
+      "id": 11,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Yeməklər",
+      "question": "Çörək əsasən nədən bişirilir?",
+      "options": [
+        "Düyüdən",
+        "Şəkərdən",
+        "Undan",
+        "Duzdan"
+      ],
+      "answer": "Undan",
+      "answerIndex": 2
+    },
+    {
+      "id": 12,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Təbiət",
+      "question": "Qar adətən hansı fəsildə yağır?",
+      "options": [
+        "Yayda",
+        "Yazda",
+        "Payızda",
+        "Qışda"
+      ],
+      "answer": "Qışda",
+      "answerIndex": 3
+    },
+    {
+      "id": 13,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Maraqlı məlumatlar",
+      "question": "Azərbaycanın paytaxtı hansı şəhərdir?",
+      "options": [
+        "Bakı",
+        "Gəncə",
+        "Sumqayıt",
+        "Naxçıvan"
+      ],
+      "answer": "Bakı",
+      "answerIndex": 0
+    },
+    {
+      "id": 14,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Atalar sözləri",
+      "question": "Atalar sözünü tamamlayın: Bu günün işini ___ qoyma.",
+      "options": [
+        "axşama",
+        "sabaha",
+        "dünənə",
+        "yaza"
+      ],
+      "answer": "sabaha",
+      "answerIndex": 1
+    },
+    {
+      "id": 15,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Yeməklər",
+      "question": "Yarpaq dolması ənənəvi olaraq çox vaxt hansı yarpağa bükülür?",
+      "options": [
+        "Çay yarpağına",
+        "Nanə yarpağına",
+        "Üzüm yarpağına",
+        "Qəhvə yarpağına"
+      ],
+      "answer": "Üzüm yarpağına",
+      "answerIndex": 2
+    },
+    {
+      "id": 16,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Atalar sözləri",
+      "question": "Atalar sözünü tamamlayın: Ağzı yanan qatığı ___ içər.",
+      "options": [
+        "soyudub",
+        "qarışdırıb",
+        "duzlayıb",
+        "üfürüb"
+      ],
+      "answer": "üfürüb",
+      "answerIndex": 3
+    },
+    {
+      "id": 17,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Texnologiya",
+      "question": "Telefonu doldurmaq üçün nədən istifadə edirik?",
+      "options": [
+        "Şarj cihazından",
+        "Qulaqlıqdan",
+        "Çantadan",
+        "Qələmdən"
+      ],
+      "answer": "Şarj cihazından",
+      "answerIndex": 0
+    },
+    {
+      "id": 18,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Yeməklər",
+      "question": "Yumurtadan hazırlanan sadə səhər yeməyi hansıdır?",
+      "options": [
+        "Plov",
+        "Qayğanaq",
+        "Paxlava",
+        "Dolma"
+      ],
+      "answer": "Qayğanaq",
+      "answerIndex": 1
+    },
+    {
+      "id": 19,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Yeməklər",
+      "question": "Aşağıdakılardan hansı meyvədir?",
+      "options": [
+        "Soğan",
+        "Kartof",
+        "Armud",
+        "Kələm"
+      ],
+      "answer": "Armud",
+      "answerIndex": 2
+    },
+    {
+      "id": 20,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "İnsan",
+      "question": "Nəfəs almaq üçün əsas orqanlarımız hansılardır?",
+      "options": [
+        "Böyrəklər",
+        "Mədə",
+        "Qaraciyər",
+        "Ağciyərlər"
+      ],
+      "answer": "Ağciyərlər",
+      "answerIndex": 3
+    },
+    {
+      "id": 21,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Gündəlik həyat",
+      "question": "Yağışlı havada çölə çıxanda özümüzlə hansı əşyanı götürürük?",
+      "options": [
+        "Çətir",
+        "Dəftər",
+        "Açar",
+        "Tərəzi"
+      ],
+      "answer": "Çətir",
+      "answerIndex": 0
+    },
+    {
+      "id": 22,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Texnologiya",
+      "question": "Kompüterin “beyni” adlanan əsas hissə hansıdır?",
+      "options": [
+        "Monitor",
+        "Prosessor",
+        "Klaviatura",
+        "Printer"
+      ],
+      "answer": "Prosessor",
+      "answerIndex": 1
+    },
+    {
+      "id": 23,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Yeməklər",
+      "question": "Aşağıdakılardan hansı şirniyyatdır?",
+      "options": [
+        "Dolma",
+        "Plov",
+        "Paxlava",
+        "Kabab"
+      ],
+      "answer": "Paxlava",
+      "answerIndex": 2
+    },
+    {
+      "id": 24,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Gündəlik həyat",
+      "question": "Svetoforda qırmızı işıq nəyi bildirir?",
+      "options": [
+        "Sürəti artırmaq lazımdır",
+        "Keçmək olar",
+        "Geri dönmək lazımdır",
+        "Dayanmaq lazımdır"
+      ],
+      "answer": "Dayanmaq lazımdır",
+      "answerIndex": 3
+    },
+    {
+      "id": 25,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Maraqlı məlumatlar",
+      "question": "Azərbaycan bayrağında neçə əsas rəng zolağı var?",
+      "options": [
+        "3",
+        "2",
+        "4",
+        "5"
+      ],
+      "answer": "3",
+      "answerIndex": 0
+    },
+    {
+      "id": 26,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Texnologiya",
+      "question": "Mobil telefon əsasən nə ilə işləyir?",
+      "options": [
+        "Su ilə",
+        "Batareya ilə",
+        "Qaz ilə",
+        "Külək ilə"
+      ],
+      "answer": "Batareya ilə",
+      "answerIndex": 1
+    },
+    {
+      "id": 27,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "İnsan",
+      "question": "Böyüklər üçün orta hesabla neçə saat yuxu tövsiyə olunur?",
+      "options": [
+        "2–3 saat",
+        "12–14 saat",
+        "7–9 saat",
+        "4–5 saat"
+      ],
+      "answer": "7–9 saat",
+      "answerIndex": 2
+    },
+    {
+      "id": 28,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Yeməklər",
+      "question": "Aşağıdakılardan hansı tərəvəzdir?",
+      "options": [
+        "Alma",
+        "Şaftalı",
+        "Üzüm",
+        "Yerkökü"
+      ],
+      "answer": "Yerkökü",
+      "answerIndex": 3
+    },
+    {
+      "id": 29,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "İnsan",
+      "question": "Sağlam insanın bədən istiliyi təxminən neçə dərəcə olur?",
+      "options": [
+        "36,6 °C",
+        "20 °C",
+        "42 °C",
+        "50 °C"
+      ],
+      "answer": "36,6 °C",
+      "answerIndex": 0
+    },
+    {
+      "id": 30,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "İnsan",
+      "question": "Yeməyin dadını hansı orqanla hiss edirik?",
+      "options": [
+        "Qulaqla",
+        "Dillə",
+        "Dirsəklə",
+        "Dizlə"
+      ],
+      "answer": "Dillə",
+      "answerIndex": 1
+    },
+    {
+      "id": 31,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Heyvanlar",
+      "question": "Pişik necə səs çıxarır?",
+      "options": [
+        "Hürür",
+        "Mələyir",
+        "Miyoldayır",
+        "Kişnəyir"
+      ],
+      "answer": "Miyoldayır",
+      "answerIndex": 2
+    },
+    {
+      "id": 32,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Təbiət",
+      "question": "Dəniz suyunun dadı necədir?",
+      "options": [
+        "Şirin",
+        "Turş",
+        "Acı",
+        "Duzlu"
+      ],
+      "answer": "Duzlu",
+      "answerIndex": 3
+    },
+    {
+      "id": 33,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Heyvanlar",
+      "question": "Dovşan hansı qidanı çox sevir?",
+      "options": [
+        "Yerkökü",
+        "Ət",
+        "Balıq",
+        "Pendir"
+      ],
+      "answer": "Yerkökü",
+      "answerIndex": 0
+    },
+    {
+      "id": 34,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Atalar sözləri",
+      "question": "Atalar sözünü tamamlayın: Ağıl yaşda deyil, ___.",
+      "options": [
+        "gözdədir",
+        "başdadır",
+        "əldədir",
+        "ayaqdadır"
+      ],
+      "answer": "başdadır",
+      "answerIndex": 1
+    },
+    {
+      "id": 35,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Maraqlı məlumatlar",
+      "question": "Futbolda bir komanda meydanda neçə oyunçu ilə oynayır?",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "answer": "11",
+      "answerIndex": 2
+    },
+    {
+      "id": 36,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Yeməklər",
+      "question": "Qarpız əsasən hansı fəsildə yetişir?",
+      "options": [
+        "Qışda",
+        "Yazın əvvəlində",
+        "Dekabrda",
+        "Yayda"
+      ],
+      "answer": "Yayda",
+      "answerIndex": 3
+    },
+    {
+      "id": 37,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Yeməklər",
+      "question": "Azərbaycanın ən məşhur milli yeməklərindən biri hansıdır?",
+      "options": [
+        "Plov",
+        "Pizza",
+        "Sushi",
+        "Hamburger"
+      ],
+      "answer": "Plov",
+      "answerIndex": 0
+    },
+    {
+      "id": 38,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Təbiət",
+      "question": "Dünyanın ən soyuq qitəsi hansıdır?",
+      "options": [
+        "Afrika",
+        "Antarktida",
+        "Avstraliya",
+        "Cənubi Amerika"
+      ],
+      "answer": "Antarktida",
+      "answerIndex": 1
+    },
+    {
+      "id": 39,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "İnsan",
+      "question": "Bir əlimizdə neçə barmaq var?",
+      "options": [
+        "4",
+        "6",
+        "5",
+        "10"
+      ],
+      "answer": "5",
+      "answerIndex": 2
+    },
+    {
+      "id": 40,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Gündəlik həyat",
+      "question": "Təzə çörək əsasən harada satılır?",
+      "options": [
+        "Aptekdə",
+        "Kitabxanada",
+        "Bankda",
+        "Çörək mağazasında"
+      ],
+      "answer": "Çörək mağazasında",
+      "answerIndex": 3
+    },
+    {
+      "id": 41,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Maraqlı məlumatlar",
+      "question": "Azərbaycan Respublikasının dövlət dili hansıdır?",
+      "options": [
+        "Azərbaycan dili",
+        "Rus dili",
+        "Türk dili",
+        "İngilis dili"
+      ],
+      "answer": "Azərbaycan dili",
+      "answerIndex": 0
+    },
+    {
+      "id": 42,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Təbiət",
+      "question": "Su normal şəraitdə neçə dərəcədə donur?",
+      "options": [
+        "10 °C",
+        "0 °C",
+        "50 °C",
+        "100 °C"
+      ],
+      "answer": "0 °C",
+      "answerIndex": 1
+    },
+    {
+      "id": 43,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Texnologiya",
+      "question": "Kompüterdə mətn yazmaq üçün hansı qurğudan istifadə edirik?",
+      "options": [
+        "Printer",
+        "Dinamik",
+        "Klaviatura",
+        "Monitor"
+      ],
+      "answer": "Klaviatura",
+      "answerIndex": 2
+    },
+    {
+      "id": 44,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Maraqlı məlumatlar",
+      "question": "Ay Yer üçün nə hesab olunur?",
+      "options": [
+        "Ulduz",
+        "Planet",
+        "Kometa",
+        "Təbii peyk"
+      ],
+      "answer": "Təbii peyk",
+      "answerIndex": 3
+    },
+    {
+      "id": 45,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Gündəlik həyat",
+      "question": "Bir ildə neçə fəsil var?",
+      "options": [
+        "4",
+        "3",
+        "5",
+        "6"
+      ],
+      "answer": "4",
+      "answerIndex": 0
+    },
+    {
+      "id": 46,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Maraqlı məlumatlar",
+      "question": "Üçbucağın neçə tərəfi var?",
+      "options": [
+        "4",
+        "3",
+        "5",
+        "2"
+      ],
+      "answer": "3",
+      "answerIndex": 1
+    },
+    {
+      "id": 47,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "İnsan",
+      "question": "Dərini günəşin zərərli şüalarından qorumaq üçün nədən istifadə edilir?",
+      "options": [
+        "Şampundan",
+        "Diş pastasından",
+        "Günəş kremindən",
+        "Sabundan"
+      ],
+      "answer": "Günəş kremindən",
+      "answerIndex": 2
+    },
+    {
+      "id": 48,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Heyvanlar",
+      "question": "Quru heyvanları arasında ən böyüyü hansıdır?",
+      "options": [
+        "Zürafə",
+        "At",
+        "Ayı",
+        "Fil"
+      ],
+      "answer": "Fil",
+      "answerIndex": 3
+    },
+    {
+      "id": 49,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Maraqlı məlumatlar",
+      "question": "Dünyanın ən böyük okeanı hansıdır?",
+      "options": [
+        "Sakit okean",
+        "Atlantik okeanı",
+        "Hind okeanı",
+        "Şimal Buzlu okeanı"
+      ],
+      "answer": "Sakit okean",
+      "answerIndex": 0
+    },
+    {
+      "id": 50,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Yeməklər",
+      "question": "Çay hansı bitkinin yarpaqlarından hazırlanır?",
+      "options": [
+        "Qarpızın",
+        "Çay kolunun",
+        "Qovunun",
+        "Alma ağacının"
+      ],
+      "answer": "Çay kolunun",
+      "answerIndex": 1
+    },
+    {
+      "id": 51,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Təbiət",
+      "question": "Üzərində yaşadığımız planetin adı nədir?",
+      "options": [
+        "Mars",
+        "Venera",
+        "Yer",
+        "Yupiter"
+      ],
+      "answer": "Yer",
+      "answerIndex": 2
+    },
+    {
+      "id": 52,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Atalar sözləri",
+      "question": "Atalar sözünü tamamlayın: Yeddi ölç, bir ___.",
+      "options": [
+        "kəs",
+        "tik",
+        "ək",
+        "biç"
+      ],
+      "answer": "biç",
+      "answerIndex": 3
+    },
+    {
+      "id": 53,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Təbiət",
+      "question": "Ağaclar yarpaqlarını əsasən hansı fəsildə tökür?",
+      "options": [
+        "Payızda",
+        "Yazda",
+        "Yayda",
+        "Qışın ortasında"
+      ],
+      "answer": "Payızda",
+      "answerIndex": 0
+    },
+    {
+      "id": 54,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "İnsan",
+      "question": "Düşünmək və yadda saxlamaq üçün hansı orqan əsasdır?",
+      "options": [
+        "Mədə",
+        "Beyin",
+        "Ürək",
+        "Dəri"
+      ],
+      "answer": "Beyin",
+      "answerIndex": 1
+    },
+    {
+      "id": 55,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Heyvanlar",
+      "question": "Dəvənin belində nə var?",
+      "options": [
+        "Qanad",
+        "Buynuz",
+        "Hörgüc",
+        "Üzgəc"
+      ],
+      "answer": "Hörgüc",
+      "answerIndex": 2
+    },
+    {
+      "id": 56,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Texnologiya",
+      "question": "E-poçt ünvanında hansı simvol mütləq iştirak edir?",
+      "options": [
+        "#",
+        "$",
+        "%",
+        "@"
+      ],
+      "answer": "@",
+      "answerIndex": 3
+    },
+    {
+      "id": 57,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Təbiət",
+      "question": "Günəş hansı istiqamətdə batır?",
+      "options": [
+        "Qərbdə",
+        "Şərqdə",
+        "Şimalda",
+        "Cənubda"
+      ],
+      "answer": "Qərbdə",
+      "answerIndex": 0
+    },
+    {
+      "id": 58,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Heyvanlar",
+      "question": "Arı hansı faydalı məhsulu istehsal edir?",
+      "options": [
+        "Süd",
+        "Bal",
+        "Yun",
+        "Yağ"
+      ],
+      "answer": "Bal",
+      "answerIndex": 1
+    },
+    {
+      "id": 59,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Maraqlı məlumatlar",
+      "question": "Aşağıdakılardan hansı bizə ən yaxın ulduzdur?",
+      "options": [
+        "Sirius",
+        "Qütb ulduzu",
+        "Günəş",
+        "Vega"
+      ],
+      "answer": "Günəş",
+      "answerIndex": 2
+    },
+    {
+      "id": 60,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Heyvanlar",
+      "question": "İt necə səs çıxarır?",
+      "options": [
+        "Miyoldayır",
+        "Kişnəyir",
+        "Mələyir",
+        "Hürür"
+      ],
+      "answer": "Hürür",
+      "answerIndex": 3
+    },
+    {
+      "id": 61,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Atalar sözləri",
+      "question": "Atalar sözünü tamamlayın: Əl əli yuyar, əl də ___.",
+      "options": [
+        "üzü",
+        "ayağı",
+        "başı",
+        "gözü"
+      ],
+      "answer": "üzü",
+      "answerIndex": 0
+    },
+    {
+      "id": 62,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Maraqlı məlumatlar",
+      "question": "Mavi və sarı rəngləri qarışdırsaq hansı rəng alınır?",
+      "options": [
+        "Bənövşəyi",
+        "Yaşıl",
+        "Narıncı",
+        "Qəhvəyi"
+      ],
+      "answer": "Yaşıl",
+      "answerIndex": 1
+    },
+    {
+      "id": 63,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Maraqlı məlumatlar",
+      "question": "Azərbaycanın milli valyutası hansıdır?",
+      "options": [
+        "Dollar",
+        "Avro",
+        "Manat",
+        "Lirə"
+      ],
+      "answer": "Manat",
+      "answerIndex": 2
+    },
+    {
+      "id": 64,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Gündəlik həyat",
+      "question": "Səhər tezdən bizi yuxudan oyatmaq üçün hansı əşyadan istifadə edirik?",
+      "options": [
+        "Çətir",
+        "Güzgü",
+        "Dəsmal",
+        "Zəngli saat"
+      ],
+      "answer": "Zəngli saat",
+      "answerIndex": 3
+    },
+    {
+      "id": 65,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Texnologiya",
+      "question": "Sənədi kağıza çıxarmaq üçün hansı cihazdan istifadə olunur?",
+      "options": [
+        "Printer",
+        "Skaner",
+        "Monitor",
+        "Dinamik"
+      ],
+      "answer": "Printer",
+      "answerIndex": 0
+    },
+    {
+      "id": 66,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Gündəlik həyat",
+      "question": "Bir gündə neçə saat var?",
+      "options": [
+        "12",
+        "24",
+        "48",
+        "60"
+      ],
+      "answer": "24",
+      "answerIndex": 1
+    },
+    {
+      "id": 67,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Yeməklər",
+      "question": "Limonun dadı necədir?",
+      "options": [
+        "Şirin",
+        "Duzlu",
+        "Turş",
+        "Acı"
+      ],
+      "answer": "Turş",
+      "answerIndex": 2
+    },
+    {
+      "id": 68,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "İnsan",
+      "question": "İnsanın neçə gözü var?",
+      "options": [
+        "1",
+        "3",
+        "4",
+        "2"
+      ],
+      "answer": "2",
+      "answerIndex": 3
+    },
+    {
+      "id": 69,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Texnologiya",
+      "question": "Toxunma ekranlı müasir ağıllı telefonlar necə adlanır?",
+      "options": [
+        "Smartfon",
+        "Radio",
+        "Telefaks",
+        "Teleqraf"
+      ],
+      "answer": "Smartfon",
+      "answerIndex": 0
+    },
+    {
+      "id": 70,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Texnologiya",
+      "question": "YouTube hansı növ platformadır?",
+      "options": [
+        "Yemək sifariş platforması",
+        "Video paylaşma platforması",
+        "Bank xidməti",
+        "Xəritə proqramı"
+      ],
+      "answer": "Video paylaşma platforması",
+      "answerIndex": 1
+    },
+    {
+      "id": 71,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Maraqlı məlumatlar",
+      "question": "Dörd fəsildən hansı ən soyuq fəsildir?",
+      "options": [
+        "Yay",
+        "Yaz",
+        "Qış",
+        "Payız"
+      ],
+      "answer": "Qış",
+      "answerIndex": 2
+    },
+    {
+      "id": 72,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "İnsan",
+      "question": "Qanı bədənə hansı orqan vurur?",
+      "options": [
+        "Ağciyər",
+        "Mədə",
+        "Böyrək",
+        "Ürək"
+      ],
+      "answer": "Ürək",
+      "answerIndex": 3
+    },
+    {
+      "id": 73,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Maraqlı məlumatlar",
+      "question": "Bir ildə neçə ay var?",
+      "options": [
+        "12",
+        "10",
+        "11",
+        "13"
+      ],
+      "answer": "12",
+      "answerIndex": 0
+    },
+    {
+      "id": 74,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Yeməklər",
+      "question": "Qatıq nədən hazırlanır?",
+      "options": [
+        "Undan",
+        "Süddən",
+        "Şəkərdən",
+        "Düyüdən"
+      ],
+      "answer": "Süddən",
+      "answerIndex": 1
+    },
+    {
+      "id": 75,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Təbiət",
+      "question": "Dünyanın ən böyük qitəsi hansıdır?",
+      "options": [
+        "Avropa",
+        "Afrika",
+        "Asiya",
+        "Avstraliya"
+      ],
+      "answer": "Asiya",
+      "answerIndex": 2
+    },
+    {
+      "id": 76,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Gündəlik həyat",
+      "question": "Adi divar saatının üzərində neçə rəqəm olur?",
+      "options": [
+        "10",
+        "24",
+        "6",
+        "12"
+      ],
+      "answer": "12",
+      "answerIndex": 3
+    },
+    {
+      "id": 77,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "İnsan",
+      "question": "İki ayaqda cəmi neçə barmaq var?",
+      "options": [
+        "10",
+        "8",
+        "12",
+        "5"
+      ],
+      "answer": "10",
+      "answerIndex": 0
+    },
+    {
+      "id": 78,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Atalar sözləri",
+      "question": "Atalar sözünü tamamlayın: Bir əldən ___ çıxmaz.",
+      "options": [
+        "nəfəs",
+        "səs",
+        "tüstü",
+        "iz"
+      ],
+      "answer": "səs",
+      "answerIndex": 1
+    },
+    {
+      "id": 79,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Texnologiya",
+      "question": "Telefonun əsas vəzifəsi nədir?",
+      "options": [
+        "Yemək bişirir",
+        "Paltar ütüləyir",
+        "Uzaq məsafədən danışmağa imkan verir",
+        "Su qaynadır"
+      ],
+      "answer": "Uzaq məsafədən danışmağa imkan verir",
+      "answerIndex": 2
+    },
+    {
+      "id": 80,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Atalar sözləri",
+      "question": "Atalar sözünü tamamlayın: Axtaran ___.",
+      "options": [
+        "itirər",
+        "yorular",
+        "gözləyər",
+        "tapar"
+      ],
+      "answer": "tapar",
+      "answerIndex": 3
+    },
+    {
+      "id": 81,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Gündəlik həyat",
+      "question": "Bir saatda neçə dəqiqə var?",
+      "options": [
+        "60",
+        "100",
+        "30",
+        "120"
+      ],
+      "answer": "60",
+      "answerIndex": 0
+    },
+    {
+      "id": 82,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Təbiət",
+      "question": "Azərbaycan hansı dənizin sahilində yerləşir?",
+      "options": [
+        "Qara dəniz",
+        "Xəzər dənizi",
+        "Aral dənizi",
+        "Ağ dəniz"
+      ],
+      "answer": "Xəzər dənizi",
+      "answerIndex": 1
+    },
+    {
+      "id": 83,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Gündəlik həyat",
+      "question": "Bir həftədə neçə gün var?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": "7",
+      "answerIndex": 2
+    },
+    {
+      "id": 84,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Maraqlı məlumatlar",
+      "question": "Göy qurşağında neçə əsas rəng sayılır?",
+      "options": [
+        "5",
+        "6",
+        "8",
+        "7"
+      ],
+      "answer": "7",
+      "answerIndex": 3
+    },
+    {
+      "id": 85,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "İnsan",
+      "question": "Uşaqlarda süd dişləri adətən neçə yaşdan dəyişməyə başlayır?",
+      "options": [
+        "6–7 yaşdan",
+        "1 yaşdan",
+        "15 yaşdan",
+        "20 yaşdan"
+      ],
+      "answer": "6–7 yaşdan",
+      "answerIndex": 0
+    },
+    {
+      "id": 86,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Təbiət",
+      "question": "Bitkilərin böyüməsi üçün əsasən nə lazımdır?",
+      "options": [
+        "Yalnız duz",
+        "Su və günəş işığı",
+        "Yalnız daş",
+        "Yalnız qum"
+      ],
+      "answer": "Su və günəş işığı",
+      "answerIndex": 1
+    },
+    {
+      "id": 87,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Heyvanlar",
+      "question": "Aşağıdakılardan hansı süd verən ev heyvanıdır?",
+      "options": [
+        "Toyuq",
+        "Ördək",
+        "İnək",
+        "Qaz"
+      ],
+      "answer": "İnək",
+      "answerIndex": 2
+    },
+    {
+      "id": 88,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Heyvanlar",
+      "question": "Qışı yuxuda keçirən heyvan hansıdır?",
+      "options": [
+        "İnək",
+        "Toyuq",
+        "At",
+        "Ayı"
+      ],
+      "answer": "Ayı",
+      "answerIndex": 3
+    },
+    {
+      "id": 89,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Heyvanlar",
+      "question": "Quşların bədəni nə ilə örtülüdür?",
+      "options": [
+        "Lələklə",
+        "Qabıqla",
+        "Yunla",
+        "Pulcuqla"
+      ],
+      "answer": "Lələklə",
+      "answerIndex": 0
+    },
+    {
+      "id": 90,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "İnsan",
+      "question": "Səsləri hansı orqanla eşidirik?",
+      "options": [
+        "Burunla",
+        "Qulaqla",
+        "Gözlə",
+        "Əllə"
+      ],
+      "answer": "Qulaqla",
+      "answerIndex": 1
+    },
+    {
+      "id": 91,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Heyvanlar",
+      "question": "Balıqlar suda nəfəs almaq üçün hansı orqandan istifadə edir?",
+      "options": [
+        "Ağciyərlərdən",
+        "Qanadlarından",
+        "Qəlsəmələrdən",
+        "Quyruğundan"
+      ],
+      "answer": "Qəlsəmələrdən",
+      "answerIndex": 2
+    },
+    {
+      "id": 92,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Təbiət",
+      "question": "Ağacların yaşıl hissələrinə nə deyilir?",
+      "options": [
+        "Kök",
+        "Budaq",
+        "Gövdə",
+        "Yarpaq"
+      ],
+      "answer": "Yarpaq",
+      "answerIndex": 3
+    },
+    {
+      "id": 93,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Təbiət",
+      "question": "Yağış nədən yağır?",
+      "options": [
+        "Buludlardan",
+        "Dağlardan",
+        "Ağaclardan",
+        "Küləkdən"
+      ],
+      "answer": "Buludlardan",
+      "answerIndex": 0
+    },
+    {
+      "id": 94,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Maraqlı məlumatlar",
+      "question": "Dünyanın ən hündür dağı hansıdır?",
+      "options": [
+        "Elbrus",
+        "Everest",
+        "Kilimancaro",
+        "Ağrı dağı"
+      ],
+      "answer": "Everest",
+      "answerIndex": 1
+    },
+    {
+      "id": 95,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Atalar sözləri",
+      "question": "Atalar sözünü tamamlayın: Dəmir isti ikən ___.",
+      "options": [
+        "əyilər",
+        "soyuyar",
+        "döyülər",
+        "əriyər"
+      ],
+      "answer": "döyülər",
+      "answerIndex": 2
+    },
+    {
+      "id": 96,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Təbiət",
+      "question": "İldırım çaxandan sonra nə eşidilir?",
+      "options": [
+        "Mahnı",
+        "Zəng səsi",
+        "Xışıltı",
+        "Göy gurultusu"
+      ],
+      "answer": "Göy gurultusu",
+      "answerIndex": 3
+    },
+    {
+      "id": 97,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Heyvanlar",
+      "question": "Aşağıdakılardan hansı quşdur?",
+      "options": [
+        "Qartal",
+        "Delfin",
+        "Qurbağa",
+        "Kərtənkələ"
+      ],
+      "answer": "Qartal",
+      "answerIndex": 0
+    },
+    {
+      "id": 98,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Heyvanlar",
+      "question": "Ən hündür heyvan hansıdır?",
+      "options": [
+        "Fil",
+        "Zürafə",
+        "Dəvə",
+        "Ayı"
+      ],
+      "answer": "Zürafə",
+      "answerIndex": 1
+    },
+    {
+      "id": 99,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Texnologiya",
+      "question": "Wi-Fi nə üçün istifadə olunur?",
+      "options": [
+        "Paltar yumaq üçün",
+        "Yemək bişirmək üçün",
+        "Simsiz internet bağlantısı üçün",
+        "Evi isitmək üçün"
+      ],
+      "answer": "Simsiz internet bağlantısı üçün",
+      "answerIndex": 2
+    },
+    {
+      "id": 100,
+      "level": 1,
+      "difficulty": "Çox asan",
+      "category": "Atalar sözləri",
+      "question": "Atalar sözünü tamamlayın: Dağ dağa qovuşmaz, adam adama ___.",
+      "options": [
+        "küsər",
+        "baxar",
+        "bənzəməz",
+        "qovuşar"
+      ],
+      "answer": "qovuşar",
+      "answerIndex": 3
+    },
+    {
+      "id": 101,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Heyvanlar",
+      "question": "Atın balası necə adlanır?",
+      "options": [
+        "Qulun",
+        "Quzu",
+        "Buzov",
+        "Cücə"
+      ],
+      "answer": "Qulun",
+      "answerIndex": 0
+    },
+    {
+      "id": 102,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Gündəlik həyat",
+      "question": "Aşağıdakılardan hansı nəqliyyat vasitəsi deyil?",
+      "options": [
+        "Avtobus",
+        "Dəftər",
+        "Qatar",
+        "Təyyarə"
+      ],
+      "answer": "Dəftər",
+      "answerIndex": 1
+    },
+    {
+      "id": 103,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Maraqlı məlumatlar",
+      "question": "Bakının İçərişəhər hissəsində yerləşən məşhur qədim qüllə hansıdır?",
+      "options": [
+        "Eyfel qülləsi",
+        "Piza qülləsi",
+        "Qız qalası",
+        "Böyük Ben"
+      ],
+      "answer": "Qız qalası",
+      "answerIndex": 2
+    },
+    {
+      "id": 104,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "İnsan",
+      "question": "Sağlam yetkin insanın ürəyi istirahət zamanı dəqiqədə orta hesabla neçə dəfə döyünür?",
+      "options": [
+        "10–20",
+        "150–200",
+        "200–250",
+        "60–100"
+      ],
+      "answer": "60–100",
+      "answerIndex": 3
+    },
+    {
+      "id": 105,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Texnologiya",
+      "question": "Bluetooth texnologiyası nə üçün istifadə olunur?",
+      "options": [
+        "Yaxın məsafədə simsiz məlumat ötürmək üçün",
+        "Yemək bişirmək üçün",
+        "Elektrik enerjisi istehsal etmək üçün",
+        "Havanı təmizləmək üçün"
+      ],
+      "answer": "Yaxın məsafədə simsiz məlumat ötürmək üçün",
+      "answerIndex": 0
+    },
+    {
+      "id": 106,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Yeməklər",
+      "question": "Plovda əsas ərzaq hansıdır?",
+      "options": [
+        "Makaron",
+        "Düyü",
+        "Kartof",
+        "Qarğıdalı"
+      ],
+      "answer": "Düyü",
+      "answerIndex": 1
+    },
+    {
+      "id": 107,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Maraqlı məlumatlar",
+      "question": "Aya ilk ayaq basan insan kimdir?",
+      "options": [
+        "Yuri Qaqarin",
+        "Alan Şepard",
+        "Nil Armstronq",
+        "Con Glenn"
+      ],
+      "answer": "Nil Armstronq",
+      "answerIndex": 2
+    },
+    {
+      "id": 108,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Gündəlik həyat",
+      "question": "Adi (uzun olmayan) ildə neçə gün olur?",
+      "options": [
+        "360",
+        "366",
+        "364",
+        "365"
+      ],
+      "answer": "365",
+      "answerIndex": 3
+    },
+    {
+      "id": 109,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Yeməklər",
+      "question": "Ayran hansı südlü məhsul əsasında hazırlanır?",
+      "options": [
+        "Qatıq",
+        "Pendir",
+        "Qaymaq",
+        "Kərə yağı"
+      ],
+      "answer": "Qatıq",
+      "answerIndex": 0
+    },
+    {
+      "id": 110,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Texnologiya",
+      "question": "Aşağıdakılardan hansı xarici yaddaş qurğusudur?",
+      "options": [
+        "Monitor",
+        "Fləş kart",
+        "Siçan",
+        "Dinamik"
+      ],
+      "answer": "Fləş kart",
+      "answerIndex": 1
+    },
+    {
+      "id": 111,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Gündəlik həyat",
+      "question": "Azərbaycanda çay ənənəvi olaraq hansı formalı stəkanda süzülür?",
+      "options": [
+        "Kvadrat stəkanda",
+        "Üçbucaq stəkanda",
+        "Armudu stəkanda",
+        "Yastı boşqabda"
+      ],
+      "answer": "Armudu stəkanda",
+      "answerIndex": 2
+    },
+    {
+      "id": 112,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Gündəlik həyat",
+      "question": "Mağazadan alış-veriş edəndə ödənişin sübutu kimi hansı sənədi alırıq?",
+      "options": [
+        "Bilet",
+        "Dəvətnamə",
+        "Pasport",
+        "Çek"
+      ],
+      "answer": "Çek",
+      "answerIndex": 3
+    },
+    {
+      "id": 113,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Maraqlı məlumatlar",
+      "question": "“Kitabi-Dədə Qorqud” dastanı hansı xalqa aiddir?",
+      "options": [
+        "Oğuz türklərinə",
+        "Slavyanlara",
+        "Almanlara",
+        "Romalılara"
+      ],
+      "answer": "Oğuz türklərinə",
+      "answerIndex": 0
+    },
+    {
+      "id": 114,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Maraqlı məlumatlar",
+      "question": "“Mona Liza” əsərini kim çəkib?",
+      "options": [
+        "Pablo Pikasso",
+        "Leonardo da Vinçi",
+        "Mikelancelo",
+        "Vinsent van Qoq"
+      ],
+      "answer": "Leonardo da Vinçi",
+      "answerIndex": 1
+    },
+    {
+      "id": 115,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Heyvanlar",
+      "question": "Aşağıdakı quşlardan hansı uça bilmir?",
+      "options": [
+        "Qartal",
+        "Sərçə",
+        "Dəvəquşu",
+        "Göyərçin"
+      ],
+      "answer": "Dəvəquşu",
+      "answerIndex": 2
+    },
+    {
+      "id": 116,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "İnsan",
+      "question": "İnsan bədəninin ən böyük orqanı hansıdır?",
+      "options": [
+        "Qaraciyər",
+        "Ürək",
+        "Beyin",
+        "Dəri"
+      ],
+      "answer": "Dəri",
+      "answerIndex": 3
+    },
+    {
+      "id": 117,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Heyvanlar",
+      "question": "Həşəratların neçə ayağı olur?",
+      "options": [
+        "6",
+        "8",
+        "4",
+        "10"
+      ],
+      "answer": "6",
+      "answerIndex": 0
+    },
+    {
+      "id": 118,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Təbiət",
+      "question": "Dəniz sularının qalxıb enməsi (gelgit) əsasən nəyin təsirindən baş verir?",
+      "options": [
+        "Küləyin gücündən",
+        "Ayın cazibəsindən",
+        "Yağışdan",
+        "Dəniz duzundan"
+      ],
+      "answer": "Ayın cazibəsindən",
+      "answerIndex": 1
+    },
+    {
+      "id": 119,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Təbiət",
+      "question": "Dünyanın ən böyük qapalı su hövzəsi hansıdır?",
+      "options": [
+        "Aral dənizi",
+        "Ölü dəniz",
+        "Xəzər dənizi",
+        "Qara dəniz"
+      ],
+      "answer": "Xəzər dənizi",
+      "answerIndex": 2
+    },
+    {
+      "id": 120,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Atalar sözləri",
+      "question": "Atalar sözünü tamamlayın: Ac toyuq yuxusunda ___ görər.",
+      "options": [
+        "buğda",
+        "şəkər",
+        "ət",
+        "darı"
+      ],
+      "answer": "darı",
+      "answerIndex": 3
+    },
+    {
+      "id": 121,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Təbiət",
+      "question": "Dünyanın ən böyük isti səhrası hansıdır?",
+      "options": [
+        "Sahara",
+        "Qobi",
+        "Karakum",
+        "Kalahari"
+      ],
+      "answer": "Sahara",
+      "answerIndex": 0
+    },
+    {
+      "id": 122,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "İnsan",
+      "question": "Günəş şüaları təsirindən dəridə hansı vitamin əmələ gəlir?",
+      "options": [
+        "C vitamini",
+        "D vitamini",
+        "B12 vitamini",
+        "K vitamini"
+      ],
+      "answer": "D vitamini",
+      "answerIndex": 1
+    },
+    {
+      "id": 123,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Maraqlı məlumatlar",
+      "question": "Sahəsinə görə dünyanın ən böyük ölkəsi hansıdır?",
+      "options": [
+        "Çin",
+        "ABŞ",
+        "Rusiya",
+        "Kanada"
+      ],
+      "answer": "Rusiya",
+      "answerIndex": 2
+    },
+    {
+      "id": 124,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Atalar sözləri",
+      "question": "Atalar sözünü tamamlayın: Ağac bar verəndə başını ___ əyər.",
+      "options": [
+        "yuxarı",
+        "sağa",
+        "geri",
+        "aşağı"
+      ],
+      "answer": "aşağı",
+      "answerIndex": 3
+    },
+    {
+      "id": 125,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Texnologiya",
+      "question": "Elektron poçt ingilis dilində necə adlanır?",
+      "options": [
+        "E-mail",
+        "E-book",
+        "E-game",
+        "E-shop"
+      ],
+      "answer": "E-mail",
+      "answerIndex": 0
+    },
+    {
+      "id": 126,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Texnologiya",
+      "question": "Aşağıdakılardan hansı internet brauzeridir?",
+      "options": [
+        "Excel",
+        "Chrome",
+        "Photoshop",
+        "Word"
+      ],
+      "answer": "Chrome",
+      "answerIndex": 1
+    },
+    {
+      "id": 127,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Atalar sözləri",
+      "question": "Atalar sözünü tamamlayın: Su axar, ___ tapar.",
+      "options": [
+        "dənizi",
+        "ağacı",
+        "çuxurunu",
+        "dağı"
+      ],
+      "answer": "çuxurunu",
+      "answerIndex": 2
+    },
+    {
+      "id": 128,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Texnologiya",
+      "question": "QR kod nə üçün istifadə olunur?",
+      "options": [
+        "Su qaynatmaq üçün",
+        "Paltar yumaq üçün",
+        "Yemək bişirmək üçün",
+        "Skan edilərək məlumata keçid üçün"
+      ],
+      "answer": "Skan edilərək məlumata keçid üçün",
+      "answerIndex": 3
+    },
+    {
+      "id": 129,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "İnsan",
+      "question": "Gözümüz bizə hansı hissi təmin edir?",
+      "options": [
+        "Görmə",
+        "Eşitmə",
+        "Dad",
+        "İy bilmə"
+      ],
+      "answer": "Görmə",
+      "answerIndex": 0
+    },
+    {
+      "id": 130,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Yeməklər",
+      "question": "Sushi hansı ölkənin milli yeməyi hesab olunur?",
+      "options": [
+        "İtaliya",
+        "Yaponiya",
+        "Meksika",
+        "Hindistan"
+      ],
+      "answer": "Yaponiya",
+      "answerIndex": 1
+    },
+    {
+      "id": 131,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Maraqlı məlumatlar",
+      "question": "Aşağıdakılardan hansı Azərbaycanın qonşu ölkəsidir?",
+      "options": [
+        "Yaponiya",
+        "Misir",
+        "Gürcüstan",
+        "Braziliya"
+      ],
+      "answer": "Gürcüstan",
+      "answerIndex": 2
+    },
+    {
+      "id": 132,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Texnologiya",
+      "question": "Robot nədir?",
+      "options": [
+        "Yalnız insanlara aid bir peşə",
+        "Elektrik naqilinin növü",
+        "Yazı alətinin adı",
+        "Proqramla idarə olunan və tapşırıq yerinə yetirən maşın"
+      ],
+      "answer": "Proqramla idarə olunan və tapşırıq yerinə yetirən maşın",
+      "answerIndex": 3
+    },
+    {
+      "id": 133,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Maraqlı məlumatlar",
+      "question": "Kosmosa uçan ilk insan kimdir?",
+      "options": [
+        "Yuri Qaqarin",
+        "Nil Armstronq",
+        "Alan Şepard",
+        "Valentina Tereşkova"
+      ],
+      "answer": "Yuri Qaqarin",
+      "answerIndex": 0
+    },
+    {
+      "id": 134,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Atalar sözləri",
+      "question": "Atalar sözünü tamamlayın: Gözdən iraq, ___ iraq.",
+      "options": [
+        "ürəkdən",
+        "könüldən",
+        "evdən",
+        "yoldan"
+      ],
+      "answer": "könüldən",
+      "answerIndex": 1
+    },
+    {
+      "id": 135,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Heyvanlar",
+      "question": "Hansı heyvan ağ-qara zolaqlıdır?",
+      "options": [
+        "Aslan",
+        "Ayı",
+        "Zebr",
+        "Canavar"
+      ],
+      "answer": "Zebr",
+      "answerIndex": 2
+    },
+    {
+      "id": 136,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Maraqlı məlumatlar",
+      "question": "Gizə piramidaları hansı ölkədədir?",
+      "options": [
+        "Hindistanda",
+        "İranda",
+        "Tunisdə",
+        "Misirdə"
+      ],
+      "answer": "Misirdə",
+      "answerIndex": 3
+    },
+    {
+      "id": 137,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Texnologiya",
+      "question": "İnternetdə axtarış etmək üçün ən çox istifadə olunan sistemlərdən biri hansıdır?",
+      "options": [
+        "Google",
+        "Excel",
+        "Word",
+        "Paint"
+      ],
+      "answer": "Google",
+      "answerIndex": 0
+    },
+    {
+      "id": 138,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Atalar sözləri",
+      "question": "Atalar sözünü tamamlayın: Dost dostun ___.",
+      "options": [
+        "kölgəsidir",
+        "aynasıdır",
+        "yolçusudur",
+        "çörəyidir"
+      ],
+      "answer": "aynasıdır",
+      "answerIndex": 1
+    },
+    {
+      "id": 139,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Heyvanlar",
+      "question": "Quruda ən sürətli heyvan hansıdır?",
+      "options": [
+        "Ceyran",
+        "At",
+        "Gepard",
+        "Pələng"
+      ],
+      "answer": "Gepard",
+      "answerIndex": 2
+    },
+    {
+      "id": 140,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Yeməklər",
+      "question": "Quru üzüm necə adlanır?",
+      "options": [
+        "Qaysı",
+        "Əncir",
+        "Xurma",
+        "Kişmiş"
+      ],
+      "answer": "Kişmiş",
+      "answerIndex": 3
+    },
+    {
+      "id": 141,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Maraqlı məlumatlar",
+      "question": "Yer kürəsində neçə qitə var?",
+      "options": [
+        "7",
+        "5",
+        "6",
+        "8"
+      ],
+      "answer": "7",
+      "answerIndex": 0
+    },
+    {
+      "id": 142,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Təbiət",
+      "question": "Günəş sistemində neçə planet var?",
+      "options": [
+        "9",
+        "8",
+        "7",
+        "10"
+      ],
+      "answer": "8",
+      "answerIndex": 1
+    },
+    {
+      "id": 143,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Atalar sözləri",
+      "question": "Atalar sözünü tamamlayın: Şirin dil ilanı ___ çıxarar.",
+      "options": [
+        "meşədən",
+        "dərədən",
+        "yuvasından",
+        "torpaqdan"
+      ],
+      "answer": "yuvasından",
+      "answerIndex": 2
+    },
+    {
+      "id": 144,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "İnsan",
+      "question": "Yetkin insanın (ağıl dişləri ilə) neçə dişi olur?",
+      "options": [
+        "28",
+        "30",
+        "36",
+        "32"
+      ],
+      "answer": "32",
+      "answerIndex": 3
+    },
+    {
+      "id": 145,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Gündəlik həyat",
+      "question": "Bir metrdə neçə santimetr var?",
+      "options": [
+        "100",
+        "10",
+        "1000",
+        "50"
+      ],
+      "answer": "100",
+      "answerIndex": 0
+    },
+    {
+      "id": 146,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "İnsan",
+      "question": "ABO sisteminə görə neçə əsas qan qrupu var?",
+      "options": [
+        "2",
+        "4",
+        "3",
+        "6"
+      ],
+      "answer": "4",
+      "answerIndex": 1
+    },
+    {
+      "id": 147,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Gündəlik həyat",
+      "question": "Elektrik sayğacı nəyi ölçür?",
+      "options": [
+        "Suyun sərfini",
+        "Havanın nəmliyini",
+        "Elektrik enerjisinin sərfini",
+        "Evin ölçüsünü"
+      ],
+      "answer": "Elektrik enerjisinin sərfini",
+      "answerIndex": 2
+    },
+    {
+      "id": 148,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Atalar sözləri",
+      "question": "Atalar sözünü tamamlayın: Daş yerində ___.",
+      "options": [
+        "yüngüldür",
+        "itər",
+        "soyuyar",
+        "ağırdır"
+      ],
+      "answer": "ağırdır",
+      "answerIndex": 3
+    },
+    {
+      "id": 149,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Təbiət",
+      "question": "Qar dənəciklərinin əksəriyyəti neçə guşəli quruluşa malikdir?",
+      "options": [
+        "6",
+        "4",
+        "8",
+        "5"
+      ],
+      "answer": "6",
+      "answerIndex": 0
+    },
+    {
+      "id": 150,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Texnologiya",
+      "question": "Android əməliyyat sistemini hansı şirkət inkişaf etdirir?",
+      "options": [
+        "Apple",
+        "Google",
+        "Samsung",
+        "Nokia"
+      ],
+      "answer": "Google",
+      "answerIndex": 1
+    },
+    {
+      "id": 151,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Təbiət",
+      "question": "Göy qurşağı hansı hallarda əmələ gəlir?",
+      "options": [
+        "Yalnız qar yağanda",
+        "Yalnız dumanlı gecələrdə",
+        "Yağış damcılarından günəş işığı keçəndə",
+        "Yalnız şiddətli küləkdə"
+      ],
+      "answer": "Yağış damcılarından günəş işığı keçəndə",
+      "answerIndex": 2
+    },
+    {
+      "id": 152,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Yeməklər",
+      "question": "Qutab hansı yeməkdir?",
+      "options": [
+        "Süd şorbası",
+        "Dondurma",
+        "Mürəbbə",
+        "İçliyi olan nazik xəmir yeməyi"
+      ],
+      "answer": "İçliyi olan nazik xəmir yeməyi",
+      "answerIndex": 3
+    },
+    {
+      "id": 153,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Təbiət",
+      "question": "Hansı planet “Qırmızı planet” adlanır?",
+      "options": [
+        "Mars",
+        "Venera",
+        "Yupiter",
+        "Saturn"
+      ],
+      "answer": "Mars",
+      "answerIndex": 0
+    },
+    {
+      "id": 154,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Təbiət",
+      "question": "Fotosintez zamanı bitkilər havadan hansı qazı udur?",
+      "options": [
+        "Oksigen",
+        "Karbon qazı",
+        "Azot",
+        "Hidrogen"
+      ],
+      "answer": "Karbon qazı",
+      "answerIndex": 1
+    },
+    {
+      "id": 155,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Təbiət",
+      "question": "Su neçə dərəcədə qaynayır (normal atmosfer təzyiqində)?",
+      "options": [
+        "50 °C",
+        "0 °C",
+        "100 °C",
+        "200 °C"
+      ],
+      "answer": "100 °C",
+      "answerIndex": 2
+    },
+    {
+      "id": 156,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Gündəlik həyat",
+      "question": "Azərbaycanda polisi çağırmaq üçün hansı nömrə yığılır?",
+      "options": [
+        "101",
+        "103",
+        "104",
+        "102"
+      ],
+      "answer": "102",
+      "answerIndex": 3
+    },
+    {
+      "id": 157,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Gündəlik həyat",
+      "question": "Novruz bayramı Azərbaycanda hansı ayda qeyd olunur?",
+      "options": [
+        "Martda",
+        "Yanvarda",
+        "İyunda",
+        "Sentyabrda"
+      ],
+      "answer": "Martda",
+      "answerIndex": 0
+    },
+    {
+      "id": 158,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Maraqlı məlumatlar",
+      "question": "Eyfel qülləsi hansı şəhərdədir?",
+      "options": [
+        "London",
+        "Paris",
+        "Roma",
+        "Madrid"
+      ],
+      "answer": "Paris",
+      "answerIndex": 1
+    },
+    {
+      "id": 159,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Gündəlik həyat",
+      "question": "Xarici ölkəyə səfər üçün əsas sənəd hansıdır?",
+      "options": [
+        "Diplom",
+        "Sertifikat",
+        "Pasport",
+        "Dəftər"
+      ],
+      "answer": "Pasport",
+      "answerIndex": 2
+    },
+    {
+      "id": 160,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Maraqlı məlumatlar",
+      "question": "Nizami Gəncəvi hansı şəhərdə doğulub?",
+      "options": [
+        "Bakı",
+        "Şamaxı",
+        "Şəki",
+        "Gəncə"
+      ],
+      "answer": "Gəncə",
+      "answerIndex": 3
+    },
+    {
+      "id": 161,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Heyvanlar",
+      "question": "Hörümçəyin neçə ayağı var?",
+      "options": [
+        "8",
+        "6",
+        "10",
+        "4"
+      ],
+      "answer": "8",
+      "answerIndex": 0
+    },
+    {
+      "id": 162,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Heyvanlar",
+      "question": "Həm suda, həm də quruda yaşaya bilən heyvan hansıdır?",
+      "options": [
+        "İnək",
+        "Qurbağa",
+        "Toyuq",
+        "Dəvə"
+      ],
+      "answer": "Qurbağa",
+      "answerIndex": 1
+    },
+    {
+      "id": 163,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Heyvanlar",
+      "question": "Qoyunun balası necə adlanır?",
+      "options": [
+        "Qulun",
+        "Buzov",
+        "Quzu",
+        "Cücə"
+      ],
+      "answer": "Quzu",
+      "answerIndex": 2
+    },
+    {
+      "id": 164,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Təbiət",
+      "question": "Yerin yeganə təbii peyki hansıdır?",
+      "options": [
+        "Mars",
+        "Günəş",
+        "Venera",
+        "Ay"
+      ],
+      "answer": "Ay",
+      "answerIndex": 3
+    },
+    {
+      "id": 165,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Texnologiya",
+      "question": "Dron nədir?",
+      "options": [
+        "Pilotsuz uçuş aparatı",
+        "Su altı gəmisi",
+        "Elektrik qatarı",
+        "Yük maşını"
+      ],
+      "answer": "Pilotsuz uçuş aparatı",
+      "answerIndex": 0
+    },
+    {
+      "id": 166,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Təbiət",
+      "question": "Vulkan püskürəndə çıxan qaynar əridilmiş süxur necə adlanır?",
+      "options": [
+        "Kül",
+        "Lava",
+        "Buz",
+        "Palçıq"
+      ],
+      "answer": "Lava",
+      "answerIndex": 1
+    },
+    {
+      "id": 167,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Yeməklər",
+      "question": "Dovğa nədir?",
+      "options": [
+        "Şirniyyat",
+        "Dondurma",
+        "Qatıq əsaslı şorba",
+        "Ət qızartması"
+      ],
+      "answer": "Qatıq əsaslı şorba",
+      "answerIndex": 2
+    },
+    {
+      "id": 168,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Gündəlik həyat",
+      "question": "Azərbaycanda həftənin ilk iş günü hansıdır?",
+      "options": [
+        "Cümə axşamı",
+        "Şənbə",
+        "Çərşənbə",
+        "Bazar ertəsi"
+      ],
+      "answer": "Bazar ertəsi",
+      "answerIndex": 3
+    },
+    {
+      "id": 169,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Heyvanlar",
+      "question": "Dünyanın ən böyük heyvanı hansıdır?",
+      "options": [
+        "Göy balina",
+        "Fil",
+        "Zürafə",
+        "Köpəkbalığı"
+      ],
+      "answer": "Göy balina",
+      "answerIndex": 0
+    },
+    {
+      "id": 170,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "İnsan",
+      "question": "Yetkin insanın skeletində neçə sümük var?",
+      "options": [
+        "150",
+        "206",
+        "300",
+        "106"
+      ],
+      "answer": "206",
+      "answerIndex": 1
+    },
+    {
+      "id": 171,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Maraqlı məlumatlar",
+      "question": "Azərbaycanın ən hündür zirvəsi hansıdır?",
+      "options": [
+        "Şahdağ",
+        "Tufandağ",
+        "Bazardüzü",
+        "Babadağ"
+      ],
+      "answer": "Bazardüzü",
+      "answerIndex": 2
+    },
+    {
+      "id": 172,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "İnsan",
+      "question": "Hər insanın barmaq izi necədir?",
+      "options": [
+        "Hamıda eynidir",
+        "Yaşla itir",
+        "Yalnız qadınlarda olur",
+        "Fərdidir, təkrarlanmır"
+      ],
+      "answer": "Fərdidir, təkrarlanmır",
+      "answerIndex": 3
+    },
+    {
+      "id": 173,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Təbiət",
+      "question": "Dünyanın ən dərin gölü hansıdır?",
+      "options": [
+        "Baykal",
+        "Viktoriya",
+        "Van gölü",
+        "Sarısu"
+      ],
+      "answer": "Baykal",
+      "answerIndex": 0
+    },
+    {
+      "id": 174,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Yeməklər",
+      "question": "Şokolad hansı bitkinin toxumundan hazırlanır?",
+      "options": [
+        "Qəhvə",
+        "Kakao",
+        "Çay",
+        "Qarğıdalı"
+      ],
+      "answer": "Kakao",
+      "answerIndex": 1
+    },
+    {
+      "id": 175,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "İnsan",
+      "question": "Aşağıdakılardan hansı kalsiumla zəngindir və sümükləri möhkəmləndirir?",
+      "options": [
+        "Şəkər",
+        "Duz",
+        "Süd",
+        "Bibər"
+      ],
+      "answer": "Süd",
+      "answerIndex": 2
+    },
+    {
+      "id": 176,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Atalar sözləri",
+      "question": "Atalar sözünü tamamlayın: Quyu qazan özü ___.",
+      "options": [
+        "yorular",
+        "su tapar",
+        "qazanar",
+        "düşər"
+      ],
+      "answer": "düşər",
+      "answerIndex": 3
+    },
+    {
+      "id": 177,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Yeməklər",
+      "question": "Şəki halvası hansı rayonun məşhur şirniyyatıdır?",
+      "options": [
+        "Şəkinin",
+        "Lənkəranın",
+        "Qusarın",
+        "Naxçıvanın"
+      ],
+      "answer": "Şəkinin",
+      "answerIndex": 0
+    },
+    {
+      "id": 178,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Texnologiya",
+      "question": "iPhone hansı şirkətin məhsuludur?",
+      "options": [
+        "Samsung",
+        "Apple",
+        "Huawei",
+        "Nokia"
+      ],
+      "answer": "Apple",
+      "answerIndex": 1
+    },
+    {
+      "id": 179,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Yeməklər",
+      "question": "Kartof Avropaya hansı qitədən gətirilib?",
+      "options": [
+        "Afrikadan",
+        "Avstraliyadan",
+        "Cənubi Amerikadan",
+        "Antarktidadan"
+      ],
+      "answer": "Cənubi Amerikadan",
+      "answerIndex": 2
+    },
+    {
+      "id": 180,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Yeməklər",
+      "question": "Kofe hansı bitkinin toxumundan hazırlanır?",
+      "options": [
+        "Çay kolunun",
+        "Qarğıdalının",
+        "Buğdanın",
+        "Kofe ağacının"
+      ],
+      "answer": "Kofe ağacının",
+      "answerIndex": 3
+    },
+    {
+      "id": 181,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Heyvanlar",
+      "question": "Hansı heyvan rəngini dəyişməsi ilə məşhurdur?",
+      "options": [
+        "Xameleon",
+        "Fil",
+        "Dovşan",
+        "Pişik"
+      ],
+      "answer": "Xameleon",
+      "answerIndex": 0
+    },
+    {
+      "id": 182,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "İnsan",
+      "question": "Qanda oksigeni daşıyan hüceyrələr hansılardır?",
+      "options": [
+        "Leykositlər",
+        "Eritrositlər",
+        "Trombositlər",
+        "Neyronlar"
+      ],
+      "answer": "Eritrositlər",
+      "answerIndex": 1
+    },
+    {
+      "id": 183,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Heyvanlar",
+      "question": "Tırtıl böyüyərək nəyə çevrilir?",
+      "options": [
+        "Arıya",
+        "Qarışqaya",
+        "Kəpənəyə",
+        "Hörümçəyə"
+      ],
+      "answer": "Kəpənəyə",
+      "answerIndex": 2
+    },
+    {
+      "id": 184,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Heyvanlar",
+      "question": "Delfinlər hansı heyvan sinfinə aiddir?",
+      "options": [
+        "Balıqlara",
+        "Sürünənlərə",
+        "Quşlara",
+        "Məməlilərə"
+      ],
+      "answer": "Məməlilərə",
+      "answerIndex": 3
+    },
+    {
+      "id": 185,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "İnsan",
+      "question": "Mədənin əsas vəzifəsi nədir?",
+      "options": [
+        "Qidanın həzminə kömək etmək",
+        "Qanı təmizləmək",
+        "Səsləri eşitmək",
+        "Nəfəs almaq"
+      ],
+      "answer": "Qidanın həzminə kömək etmək",
+      "answerIndex": 0
+    },
+    {
+      "id": 186,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Yeməklər",
+      "question": "Düşbərə hansı yeməkdir?",
+      "options": [
+        "Şirniyyat",
+        "Xırda ətli xəmir yeməyi",
+        "Soyuq içki",
+        "Meyvə salatı"
+      ],
+      "answer": "Xırda ətli xəmir yeməyi",
+      "answerIndex": 1
+    },
+    {
+      "id": 187,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Maraqlı məlumatlar",
+      "question": "Qədim Olimpiya oyunları hansı ölkədə yaranıb?",
+      "options": [
+        "İtaliyada",
+        "Misirdə",
+        "Yunanıstanda",
+        "Fransada"
+      ],
+      "answer": "Yunanıstanda",
+      "answerIndex": 2
+    },
+    {
+      "id": 188,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Yeməklər",
+      "question": "Plovun sarı rəngli, ətirli ədviyyatı Zəfəran hansı çiçəkdən alınır?",
+      "options": [
+        "Lalə çiçəyindən",
+        "Gül çiçəyindən",
+        "Sünbül çiçəyindən",
+        "Zəfəran (krokus) çiçəyindən"
+      ],
+      "answer": "Zəfəran (krokus) çiçəyindən",
+      "answerIndex": 3
+    },
+    {
+      "id": 189,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Texnologiya",
+      "question": "GPS nə üçün istifadə olunur?",
+      "options": [
+        "Yerləşmə yerini müəyyən etmək üçün",
+        "Havanı soyutmaq üçün",
+        "Yemək bişirmək üçün",
+        "Musiqi yazmaq üçün"
+      ],
+      "answer": "Yerləşmə yerini müəyyən etmək üçün",
+      "answerIndex": 0
+    },
+    {
+      "id": 190,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Heyvanlar",
+      "question": "Pinqvinlər əsasən harada yaşayır?",
+      "options": [
+        "Sahara səhrasında",
+        "Cənub yarımkürəsində",
+        "Amazon meşələrində",
+        "Himalay dağlarında"
+      ],
+      "answer": "Cənub yarımkürəsində",
+      "answerIndex": 1
+    },
+    {
+      "id": 191,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Heyvanlar",
+      "question": "Uzun ömrü ilə məşhur olan heyvan hansıdır?",
+      "options": [
+        "Siçan",
+        "Dovşan",
+        "Tısbağa",
+        "Sərçə"
+      ],
+      "answer": "Tısbağa",
+      "answerIndex": 2
+    },
+    {
+      "id": 192,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "İnsan",
+      "question": "Yetkin insan bədəninin təxminən neçə faizi sudur?",
+      "options": [
+        "10 faiz",
+        "30 faiz",
+        "90 faiz",
+        "60 faiz"
+      ],
+      "answer": "60 faiz",
+      "answerIndex": 3
+    },
+    {
+      "id": 193,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Təbiət",
+      "question": "Avropanın ən uzun çayı hansıdır?",
+      "options": [
+        "Volqa",
+        "Reyn",
+        "Sena",
+        "Elba"
+      ],
+      "answer": "Volqa",
+      "answerIndex": 0
+    },
+    {
+      "id": 194,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Təbiət",
+      "question": "Zəlzələ titrəmələrini qeyd edən cihaz necə adlanır?",
+      "options": [
+        "Termometr",
+        "Seysmoqraf",
+        "Barometr",
+        "Kompas"
+      ],
+      "answer": "Seysmoqraf",
+      "answerIndex": 1
+    },
+    {
+      "id": 195,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Atalar sözləri",
+      "question": "Atalar sözünü tamamlayın: Bir fincan kofenin ___ il xətri var.",
+      "options": [
+        "on",
+        "əlli",
+        "qırx",
+        "yüz"
+      ],
+      "answer": "qırx",
+      "answerIndex": 2
+    },
+    {
+      "id": 196,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Gündəlik həyat",
+      "question": "Azərbaycanda təcili tibbi yardımı çağırmaq üçün hansı nömrə yığılır?",
+      "options": [
+        "101",
+        "102",
+        "104",
+        "103"
+      ],
+      "answer": "103",
+      "answerIndex": 3
+    },
+    {
+      "id": 197,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Gündəlik həyat",
+      "question": "Bir kiloqramda neçə qram var?",
+      "options": [
+        "1000",
+        "100",
+        "10",
+        "500"
+      ],
+      "answer": "1000",
+      "answerIndex": 0
+    },
+    {
+      "id": 198,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Maraqlı məlumatlar",
+      "question": "“Hamlet” faciəsinin müəllifi kimdir?",
+      "options": [
+        "Nizami Gəncəvi",
+        "Vilyam Şekspir",
+        "Lev Tolstoy",
+        "Mirzə Cəlil"
+      ],
+      "answer": "Vilyam Şekspir",
+      "answerIndex": 1
+    },
+    {
+      "id": 199,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Texnologiya",
+      "question": "Microsoft Word proqramı nə üçün istifadə olunur?",
+      "options": [
+        "Musiqi dinləmək üçün",
+        "Video çəkmək üçün",
+        "Mətn yazmaq və redaktə etmək üçün",
+        "Oyun oynamaq üçün"
+      ],
+      "answer": "Mətn yazmaq və redaktə etmək üçün",
+      "answerIndex": 2
+    },
+    {
+      "id": 200,
+      "level": 2,
+      "difficulty": "Asan",
+      "category": "Maraqlı məlumatlar",
+      "question": "Böyük Çin səddi hansı ölkədədir?",
+      "options": [
+        "Yaponiyada",
+        "Hindistanda",
+        "Monqolustanda",
+        "Çində"
+      ],
+      "answer": "Çində",
+      "answerIndex": 3
+    },
+    {
+      "id": 201,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Maraqlı məlumatlar",
+      "question": "Heydər Əliyev Mərkəzinin memarı kimdir?",
+      "options": [
+        "Zaha Hadid",
+        "Santyaqo Kalatrava",
+        "Norman Foster",
+        "Frank Gehri"
+      ],
+      "answer": "Zaha Hadid",
+      "answerIndex": 0
+    },
+    {
+      "id": 202,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Təbiət",
+      "question": "Çilidə yerləşən və dünyanın ən quraq yerlərindən sayılan səhra hansıdır?",
+      "options": [
+        "Sahara",
+        "Atakama",
+        "Qobi",
+        "Kalahari"
+      ],
+      "answer": "Atakama",
+      "answerIndex": 1
+    },
+    {
+      "id": 203,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Maraqlı məlumatlar",
+      "question": "Böyük İpək Yolunun adı hansı məhsulla bağlıdır?",
+      "options": [
+        "Qızıl ilə",
+        "Duz ilə",
+        "İpəklə",
+        "Neftlə"
+      ],
+      "answer": "İpəklə",
+      "answerIndex": 2
+    },
+    {
+      "id": 204,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Gündəlik həyat",
+      "question": "28 may Azərbaycanda hansı bayram kimi qeyd olunur?",
+      "options": [
+        "Bayraq Günü",
+        "Müstəqillik Günü",
+        "Qurtuluş Günü",
+        "Respublika Günü"
+      ],
+      "answer": "Respublika Günü",
+      "answerIndex": 3
+    },
+    {
+      "id": 205,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Atalar sözləri",
+      "question": "“Ağac bar verəndə başını aşağı əyər” atalar sözü hansı keyfiyyəti tərif edir?",
+      "options": [
+        "Təvazökarlığı",
+        "Tənbəlliyi",
+        "Qorxaqlığı",
+        "Acgözlüyü"
+      ],
+      "answer": "Təvazökarlığı",
+      "answerIndex": 0
+    },
+    {
+      "id": 206,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Yeməklər",
+      "question": "Lülə kabab əsasən nədən hazırlanır?",
+      "options": [
+        "Düyüdən",
+        "Ət qiymədən",
+        "Süddən",
+        "Kələmdən"
+      ],
+      "answer": "Ət qiymədən",
+      "answerIndex": 1
+    },
+    {
+      "id": 207,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Yeməklər",
+      "question": "Plova sarı rəng vermək üçün hansı ədviyyatdan istifadə olunur?",
+      "options": [
+        "Istiotdan",
+        "Duzdan",
+        "Zəfərandan",
+        "Sirkədən"
+      ],
+      "answer": "Zəfərandan",
+      "answerIndex": 2
+    },
+    {
+      "id": 208,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Texnologiya",
+      "question": "Elektrik avtomobilləri əsasən nə ilə hərəkət edir?",
+      "options": [
+        "Yalnız benzinlə",
+        "Yalnız qazla",
+        "Yalnız su ilə",
+        "Batareya və elektrik mühərriki ilə"
+      ],
+      "answer": "Batareya və elektrik mühərriki ilə",
+      "answerIndex": 3
+    },
+    {
+      "id": 209,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Texnologiya",
+      "question": "HTML nədir?",
+      "options": [
+        "Veb səhifələrin hazırlanması üçün işarələmə dili",
+        "Elektron cədvəl proqramı",
+        "Antivirus proqramı",
+        "Video formatı"
+      ],
+      "answer": "Veb səhifələrin hazırlanması üçün işarələmə dili",
+      "answerIndex": 0
+    },
+    {
+      "id": 210,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Gündəlik həyat",
+      "question": "Uzun ildə fevral ayı neçə gün olur?",
+      "options": [
+        "28",
+        "29",
+        "30",
+        "31"
+      ],
+      "answer": "29",
+      "answerIndex": 1
+    },
+    {
+      "id": 211,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Yeməklər",
+      "question": "Zeytun yağı hansı meyvədən alınır?",
+      "options": [
+        "Günəbaxandan",
+        "Qozdan",
+        "Zeytundan",
+        "Pambıqdan"
+      ],
+      "answer": "Zeytundan",
+      "answerIndex": 2
+    },
+    {
+      "id": 212,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Texnologiya",
+      "question": "3D printer nə edir?",
+      "options": [
+        "Yalnız şəkil çəkir",
+        "Yalnız mətn yazır",
+        "Səsi yazır",
+        "Üçölçülü obyektləri qat-qat çap edir"
+      ],
+      "answer": "Üçölçülü obyektləri qat-qat çap edir",
+      "answerIndex": 3
+    },
+    {
+      "id": 213,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "İnsan",
+      "question": "İnsulin hormonu hansı vəzidə istehsal olunur?",
+      "options": [
+        "Mədəaltı vəzidə",
+        "Qalxanabənzər vəzidə",
+        "Böyrəküstü vəzidə",
+        "Tüpürcək vəzində"
+      ],
+      "answer": "Mədəaltı vəzidə",
+      "answerIndex": 0
+    },
+    {
+      "id": 214,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Təbiət",
+      "question": "Atmosferdə ən çox rast gəlinən qaz hansıdır?",
+      "options": [
+        "Oksigen",
+        "Azot",
+        "Karbon qazı",
+        "Hidrogen"
+      ],
+      "answer": "Azot",
+      "answerIndex": 1
+    },
+    {
+      "id": 215,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Yeməklər",
+      "question": "Şəkərbura içliyi əsasən nədən hazırlanır?",
+      "options": [
+        "Ət və soğandan",
+        "Pendir və göyərtidən",
+        "Qoz və şəkər tozundan",
+        "Düyü və lobyadan"
+      ],
+      "answer": "Qoz və şəkər tozundan",
+      "answerIndex": 2
+    },
+    {
+      "id": 216,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Yeməklər",
+      "question": "Aşağıdakılardan hansı C vitamini ilə daha zəngindir?",
+      "options": [
+        "Qoz",
+        "Düyü",
+        "Buğda",
+        "Portağal"
+      ],
+      "answer": "Portağal",
+      "answerIndex": 3
+    },
+    {
+      "id": 217,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Texnologiya",
+      "question": "İstifadəçinin tələb etmədiyi kütləvi reklam mesajları necə adlanır?",
+      "options": [
+        "Spam",
+        "Cookie",
+        "Backup",
+        "Update"
+      ],
+      "answer": "Spam",
+      "answerIndex": 0
+    },
+    {
+      "id": 218,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Yeməklər",
+      "question": "Qara kürü hansı balığın kürüsüdür?",
+      "options": [
+        "Siyənəyin",
+        "Nərə balığının",
+        "Qızılbalığın",
+        "Tun balığının"
+      ],
+      "answer": "Nərə balığının",
+      "answerIndex": 1
+    },
+    {
+      "id": 219,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Təbiət",
+      "question": "Yer kürəsinin təxminən neçə faizi su ilə örtülüdür?",
+      "options": [
+        "30 faiz",
+        "50 faiz",
+        "71 faiz",
+        "90 faiz"
+      ],
+      "answer": "71 faiz",
+      "answerIndex": 2
+    },
+    {
+      "id": 220,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Atalar sözləri",
+      "question": "Atalar sözünü tamamlayın: Nə əkərsən, onu ___.",
+      "options": [
+        "yeyərsən",
+        "satarsan",
+        "itirərsən",
+        "biçərsən"
+      ],
+      "answer": "biçərsən",
+      "answerIndex": 3
+    },
+    {
+      "id": 221,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Heyvanlar",
+      "question": "Dəvənin hörgücündə əsasən nə toplanır?",
+      "options": [
+        "Yağ",
+        "Su",
+        "Süd",
+        "Qum"
+      ],
+      "answer": "Yağ",
+      "answerIndex": 0
+    },
+    {
+      "id": 222,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Gündəlik həyat",
+      "question": "Azərbaycanda Dövlət Müstəqilliyi Günü hansı tarixdə qeyd olunur?",
+      "options": [
+        "28 may",
+        "18 oktyabr",
+        "9 noyabr",
+        "31 dekabr"
+      ],
+      "answer": "18 oktyabr",
+      "answerIndex": 1
+    },
+    {
+      "id": 223,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Gündəlik həyat",
+      "question": "Azərbaycanda nəqliyyat vasitələri yolun hansı tərəfi ilə hərəkət edir?",
+      "options": [
+        "Sol tərəflə",
+        "Ortadan",
+        "Sağ tərəflə",
+        "İstənilən tərəflə"
+      ],
+      "answer": "Sağ tərəflə",
+      "answerIndex": 2
+    },
+    {
+      "id": 224,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Heyvanlar",
+      "question": "Panda əsasən nə ilə qidalanır?",
+      "options": [
+        "Ətlə",
+        "Balıqla",
+        "Meyvə ilə",
+        "Bambuklə"
+      ],
+      "answer": "Bambuklə",
+      "answerIndex": 3
+    },
+    {
+      "id": 225,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Maraqlı məlumatlar",
+      "question": "Müasir Olimpiya oyunlarının simvolu olan halqaların sayı neçədir?",
+      "options": [
+        "5",
+        "4",
+        "6",
+        "7"
+      ],
+      "answer": "5",
+      "answerIndex": 0
+    },
+    {
+      "id": 226,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Təbiət",
+      "question": "Üzükləri ilə məşhur olan planet hansıdır?",
+      "options": [
+        "Mars",
+        "Saturn",
+        "Merkuri",
+        "Venera"
+      ],
+      "answer": "Saturn",
+      "answerIndex": 1
+    },
+    {
+      "id": 227,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Texnologiya",
+      "question": "Telefonun ixtirası ənənəvi olaraq kimə aid edilir?",
+      "options": [
+        "Tomas Edison",
+        "Nikola Tesla",
+        "Aleksandr Qreyem Bell",
+        "Samuel Morze"
+      ],
+      "answer": "Aleksandr Qreyem Bell",
+      "answerIndex": 2
+    },
+    {
+      "id": 228,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Texnologiya",
+      "question": "WWW abreviaturası nəyi ifadə edir?",
+      "options": [
+        "World War Web",
+        "Web With Words",
+        "Wide World Wire",
+        "World Wide Web"
+      ],
+      "answer": "World Wide Web",
+      "answerIndex": 3
+    },
+    {
+      "id": 229,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Heyvanlar",
+      "question": "Bayquş başını təxminən neçə dərəcə fırlada bilir?",
+      "options": [
+        "270",
+        "90",
+        "180",
+        "360"
+      ],
+      "answer": "270",
+      "answerIndex": 0
+    },
+    {
+      "id": 230,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Heyvanlar",
+      "question": "Bal arısı ailəsində yumurta qoyan arı hansıdır?",
+      "options": [
+        "İşçi arı",
+        "Ana arı",
+        "Erkək arı",
+        "Gözətçi arı"
+      ],
+      "answer": "Ana arı",
+      "answerIndex": 1
+    },
+    {
+      "id": 231,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Gündəlik həyat",
+      "question": "Novruzdan əvvəl neçə çərşənbə qeyd olunur?",
+      "options": [
+        "3",
+        "5",
+        "4",
+        "7"
+      ],
+      "answer": "4",
+      "answerIndex": 2
+    },
+    {
+      "id": 232,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Maraqlı məlumatlar",
+      "question": "Şahmat taxtasında cəmi neçə xana var?",
+      "options": [
+        "49",
+        "81",
+        "100",
+        "64"
+      ],
+      "answer": "64",
+      "answerIndex": 3
+    },
+    {
+      "id": 233,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Maraqlı məlumatlar",
+      "question": "Ana dili danışanların sayına görə dünyada ən çox danışılan dil hansıdır?",
+      "options": [
+        "Çin (mandarin) dili",
+        "İngilis dili",
+        "İspan dili",
+        "Rus dili"
+      ],
+      "answer": "Çin (mandarin) dili",
+      "answerIndex": 0
+    },
+    {
+      "id": 234,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Heyvanlar",
+      "question": "Kenquru hansı qitədə təbii halda yaşayır?",
+      "options": [
+        "Afrikada",
+        "Avstraliyada",
+        "Avropada",
+        "Cənubi Amerikada"
+      ],
+      "answer": "Avstraliyada",
+      "answerIndex": 1
+    },
+    {
+      "id": 235,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Atalar sözləri",
+      "question": "“Əl əli yuyar, əl də üzü” atalar sözü nəyi ifadə edir?",
+      "options": [
+        "Təmizliyin önəmini",
+        "Tənbəlliyi",
+        "Qarşılıqlı köməyi",
+        "Tək işləməyi"
+      ],
+      "answer": "Qarşılıqlı köməyi",
+      "answerIndex": 2
+    },
+    {
+      "id": 236,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "İnsan",
+      "question": "Tarazlığın qorunmasında iştirak edən qulaq hissəsi hansıdır?",
+      "options": [
+        "Qulaq seyvanı",
+        "Qulaq pərdəsi",
+        "Xarici qulaq",
+        "İç qulaq"
+      ],
+      "answer": "İç qulaq",
+      "answerIndex": 3
+    },
+    {
+      "id": 237,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Texnologiya",
+      "question": "Elektrik lampasını praktik və kütləvi istifadəyə yararlı hala gətirən ixtiraçı kimdir?",
+      "options": [
+        "Tomas Edison",
+        "Aleksandr Bell",
+        "Qalileo Qaliley",
+        "Isaak Nyuton"
+      ],
+      "answer": "Tomas Edison",
+      "answerIndex": 0
+    },
+    {
+      "id": 238,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Atalar sözləri",
+      "question": "“Ağzı yanan qatığı üfürüb içər” atalar sözü nəyi bildirir?",
+      "options": [
+        "Qatıq çox isti olur",
+        "Bir dəfə zərər görən ehtiyatlı olur",
+        "Qatığı soyutmaq lazımdır",
+        "Yemək tələsik yeyilməlidir"
+      ],
+      "answer": "Bir dəfə zərər görən ehtiyatlı olur",
+      "answerIndex": 1
+    },
+    {
+      "id": 239,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "İnsan",
+      "question": "Qanın laxtalanmasında əsas rol oynayan hüceyrələr hansılardır?",
+      "options": [
+        "Eritrositlər",
+        "Neyronlar",
+        "Trombositlər",
+        "Limfositlər"
+      ],
+      "answer": "Trombositlər",
+      "answerIndex": 2
+    },
+    {
+      "id": 240,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Maraqlı məlumatlar",
+      "question": "Hazırda əhalisinin sayına görə dünyanın ən böyük ölkəsi hansıdır?",
+      "options": [
+        "Çin",
+        "ABŞ",
+        "İndoneziya",
+        "Hindistan"
+      ],
+      "answer": "Hindistan",
+      "answerIndex": 3
+    },
+    {
+      "id": 241,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Təbiət",
+      "question": "Dünyanın ən dərin okean çökəkliyi hansıdır?",
+      "options": [
+        "Mariana çökəkliyi",
+        "Puerto-Riko çökəkliyi",
+        "Yava çökəkliyi",
+        "Atakama çökəkliyi"
+      ],
+      "answer": "Mariana çökəkliyi",
+      "answerIndex": 0
+    },
+    {
+      "id": 242,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Yeməklər",
+      "question": "Fısıncan yeməyində hansı meyvənin şirəsindən istifadə olunur?",
+      "options": [
+        "Alma",
+        "Nar",
+        "Qarpız",
+        "Gilas"
+      ],
+      "answer": "Nar",
+      "answerIndex": 1
+    },
+    {
+      "id": 243,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Texnologiya",
+      "question": "Bulud texnologiyası (cloud) nə deməkdir?",
+      "options": [
+        "Havanın proqnozu",
+        "Quraşdırılmış soyuducu sistem",
+        "Məlumatların internet üzərindən serverlərdə saxlanılması",
+        "Elektrik enerjisi növü"
+      ],
+      "answer": "Məlumatların internet üzərindən serverlərdə saxlanılması",
+      "answerIndex": 2
+    },
+    {
+      "id": 244,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Heyvanlar",
+      "question": "Dəniz atlarında balanı kim doğur?",
+      "options": [
+        "Dişi",
+        "İkisi də",
+        "Heç biri",
+        "Erkək"
+      ],
+      "answer": "Erkək",
+      "answerIndex": 3
+    },
+    {
+      "id": 245,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "İnsan",
+      "question": "C vitamini çatışmazlığından yaranan xəstəlik hansıdır?",
+      "options": [
+        "Sinqa",
+        "Raxit",
+        "Anemiya",
+        "Diabet"
+      ],
+      "answer": "Sinqa",
+      "answerIndex": 0
+    },
+    {
+      "id": 246,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Təbiət",
+      "question": "Tsunami dalğaları əsasən hansı hadisədən yaranır?",
+      "options": [
+        "Yağışdan",
+        "Dəniz altında zəlzələdən",
+        "Qar əriməsindən",
+        "Ay tutulmasından"
+      ],
+      "answer": "Dəniz altında zəlzələdən",
+      "answerIndex": 1
+    },
+    {
+      "id": 247,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "İnsan",
+      "question": "Gözün rəngini müəyyən edən hissə hansıdır?",
+      "options": [
+        "Buynuz qişa",
+        "Torlu qişa",
+        "Qüzehli qişa",
+        "Şüşəbənzər cisim"
+      ],
+      "answer": "Qüzehli qişa",
+      "answerIndex": 2
+    },
+    {
+      "id": 248,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Təbiət",
+      "question": "Göygöl hansı təbii hadisə nəticəsində yaranıb?",
+      "options": [
+        "Vulkan püskürməsi",
+        "Sel",
+        "Meteorit düşməsi",
+        "Zəlzələ"
+      ],
+      "answer": "Zəlzələ",
+      "answerIndex": 3
+    },
+    {
+      "id": 249,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Təbiət",
+      "question": "Bitkilərdə fotosintez hüceyrənin hansı hissəsində baş verir?",
+      "options": [
+        "Xloroplastda",
+        "Mitoxondriyada",
+        "Nüvədə",
+        "Ribosomda"
+      ],
+      "answer": "Xloroplastda",
+      "answerIndex": 0
+    },
+    {
+      "id": 250,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Maraqlı məlumatlar",
+      "question": "Nizami Gəncəvinin “Xəmsə”si neçə poemadan ibarətdir?",
+      "options": [
+        "3",
+        "5",
+        "7",
+        "10"
+      ],
+      "answer": "5",
+      "answerIndex": 1
+    },
+    {
+      "id": 251,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Maraqlı məlumatlar",
+      "question": "Londonun məşhur saat qülləsi necə adlanır?",
+      "options": [
+        "Eyfel",
+        "Kreml",
+        "Biq Ben",
+        "Koloss"
+      ],
+      "answer": "Biq Ben",
+      "answerIndex": 2
+    },
+    {
+      "id": 252,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Atalar sözləri",
+      "question": "Atalar sözünü tamamlayın: Qorxan gözə ___ düşər.",
+      "options": [
+        "daş",
+        "qar",
+        "toz",
+        "çöp"
+      ],
+      "answer": "çöp",
+      "answerIndex": 3
+    },
+    {
+      "id": 253,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Təbiət",
+      "question": "Quruda ən uzun dağ silsiləsi hansıdır?",
+      "options": [
+        "And dağları",
+        "Himalay",
+        "Alp dağları",
+        "Qafqaz dağları"
+      ],
+      "answer": "And dağları",
+      "answerIndex": 0
+    },
+    {
+      "id": 254,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Gündəlik həyat",
+      "question": "Dünyada nominal olaraq neçə saat qurşağı mövcuddur?",
+      "options": [
+        "12",
+        "24",
+        "10",
+        "36"
+      ],
+      "answer": "24",
+      "answerIndex": 1
+    },
+    {
+      "id": 255,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Texnologiya",
+      "question": "PDF nədir?",
+      "options": [
+        "Elektron poçt ünvanıdır",
+        "Əməliyyat sistemidir",
+        "Sənəd formatıdır",
+        "Antivirusdur"
+      ],
+      "answer": "Sənəd formatıdır",
+      "answerIndex": 2
+    },
+    {
+      "id": 256,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Gündəlik həyat",
+      "question": "Azərbaycanda Bayraq Günü hansı tarixdə qeyd edilir?",
+      "options": [
+        "18 oktyabr",
+        "28 may",
+        "31 dekabr",
+        "9 noyabr"
+      ],
+      "answer": "9 noyabr",
+      "answerIndex": 3
+    },
+    {
+      "id": 257,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Təbiət",
+      "question": "Dünyanın ən böyük mərcan rifi hansı ölkənin sahillərindədir?",
+      "options": [
+        "Avstraliya",
+        "Braziliya",
+        "Misir",
+        "Yaponiya"
+      ],
+      "answer": "Avstraliya",
+      "answerIndex": 0
+    },
+    {
+      "id": 258,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Yeməklər",
+      "question": "Sac üzərində bişirilən məşhur Azərbaycan yeməyi hansıdır?",
+      "options": [
+        "Dovğa",
+        "Sac içi",
+        "Plov",
+        "Paxlava"
+      ],
+      "answer": "Sac içi",
+      "answerIndex": 1
+    },
+    {
+      "id": 259,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "İnsan",
+      "question": "Hemoqlobinin tərkibində hansı kimyəvi element var?",
+      "options": [
+        "Mis",
+        "Kalsium",
+        "Dəmir",
+        "Sink"
+      ],
+      "answer": "Dəmir",
+      "answerIndex": 2
+    },
+    {
+      "id": 260,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "İnsan",
+      "question": "Qanı süzərək təmizləyən və sidik əmələ gətirən orqanlar hansılardır?",
+      "options": [
+        "Ağciyərlər",
+        "Mədə",
+        "Ürək",
+        "Böyrəklər"
+      ],
+      "answer": "Böyrəklər",
+      "answerIndex": 3
+    },
+    {
+      "id": 261,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Atalar sözləri",
+      "question": "“Bir gül ilə yaz olmaz” atalar sözünün mənası nədir?",
+      "options": [
+        "Tək bir hadisəyə əsasən ümumi nəticə çıxarmaq olmaz",
+        "Güllər yalnız yazda açır",
+        "Yaz fəsli gec gəlir",
+        "Gül almaq çox bahadır"
+      ],
+      "answer": "Tək bir hadisəyə əsasən ümumi nəticə çıxarmaq olmaz",
+      "answerIndex": 0
+    },
+    {
+      "id": 262,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Maraqlı məlumatlar",
+      "question": "Nobel mükafatını təsis edən Alfred Nobel hansı ölkənin vətəndaşı olub?",
+      "options": [
+        "Norveç",
+        "İsveç",
+        "Almaniya",
+        "Rusiya"
+      ],
+      "answer": "İsveç",
+      "answerIndex": 1
+    },
+    {
+      "id": 263,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Yeməklər",
+      "question": "Dünyada su ilə yanaşı ən çox içilən içki hansıdır?",
+      "options": [
+        "Kofe",
+        "Süd",
+        "Çay",
+        "Meyvə şirəsi"
+      ],
+      "answer": "Çay",
+      "answerIndex": 2
+    },
+    {
+      "id": 264,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Atalar sözləri",
+      "question": "Atalar sözünü tamamlayın: Qonaq gələn ___ ilə gələr.",
+      "options": [
+        "yağış",
+        "çörək",
+        "yük",
+        "ruzi"
+      ],
+      "answer": "ruzi",
+      "answerIndex": 3
+    },
+    {
+      "id": 265,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Gündəlik həyat",
+      "question": "Beynəlxalq Qadınlar Günü hansı tarixdə qeyd olunur?",
+      "options": [
+        "8 mart",
+        "1 may",
+        "9 may",
+        "1 iyun"
+      ],
+      "answer": "8 mart",
+      "answerIndex": 0
+    },
+    {
+      "id": 266,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Heyvanlar",
+      "question": "Ahtapotun neçə ürəyi var?",
+      "options": [
+        "1",
+        "3",
+        "2",
+        "8"
+      ],
+      "answer": "3",
+      "answerIndex": 1
+    },
+    {
+      "id": 267,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Maraqlı məlumatlar",
+      "question": "Dünyada ilk sənaye neft quyusu 1846-cı ildə harada qazılıb?",
+      "options": [
+        "Texasda",
+        "Dubayda",
+        "Bakıda",
+        "Moskvada"
+      ],
+      "answer": "Bakıda",
+      "answerIndex": 2
+    },
+    {
+      "id": 268,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Yeməklər",
+      "question": "Dünyada ən çox istehsal olunan taxıl bitkisi hansıdır?",
+      "options": [
+        "Buğda",
+        "Düyü",
+        "Arpa",
+        "Qarğıdalı"
+      ],
+      "answer": "Qarğıdalı",
+      "answerIndex": 3
+    },
+    {
+      "id": 269,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Gündəlik həyat",
+      "question": "Bir həftədə cəmi neçə saat var?",
+      "options": [
+        "168",
+        "144",
+        "120",
+        "200"
+      ],
+      "answer": "168",
+      "answerIndex": 0
+    },
+    {
+      "id": 270,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Heyvanlar",
+      "question": "Köpəkbalığının skeleti nədən ibarətdir?",
+      "options": [
+        "Sümükdən",
+        "Qığırdaqdan",
+        "Dəmirdən",
+        "Şüşədən"
+      ],
+      "answer": "Qığırdaqdan",
+      "answerIndex": 1
+    },
+    {
+      "id": 271,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Gündəlik həyat",
+      "question": "Novruz bayramında göyərdilən səməni hansı bitkidən hazırlanır?",
+      "options": [
+        "Qarğıdalıdan",
+        "Düyüdən",
+        "Buğdadan",
+        "Çaydan"
+      ],
+      "answer": "Buğdadan",
+      "answerIndex": 2
+    },
+    {
+      "id": 272,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Maraqlı məlumatlar",
+      "question": "Qobustan qayaüstü rəsmləri hansı beynəlxalq təşkilatın Ümumdünya İrsi siyahısındadır?",
+      "options": [
+        "NATO",
+        "OPEC",
+        "FIFA",
+        "UNESCO"
+      ],
+      "answer": "UNESCO",
+      "answerIndex": 3
+    },
+    {
+      "id": 273,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Maraqlı məlumatlar",
+      "question": "“Arşın mal alan” musiqili komediyasının müəllifi kimdir?",
+      "options": [
+        "Üzeyir Hacıbəyli",
+        "Qara Qarayev",
+        "Fikrət Əmirov",
+        "Niyazi"
+      ],
+      "answer": "Üzeyir Hacıbəyli",
+      "answerIndex": 0
+    },
+    {
+      "id": 274,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Gündəlik həyat",
+      "question": "Novruz süfrəsində üzərində səməni və şirniyyat qoyulan bəzəkli məcməyi necə adlanır?",
+      "options": [
+        "Samovar",
+        "Xonça",
+        "Güldan",
+        "Qazan"
+      ],
+      "answer": "Xonça",
+      "answerIndex": 1
+    },
+    {
+      "id": 275,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "İnsan",
+      "question": "Dişin üst, ən sərt qatı necə adlanır?",
+      "options": [
+        "Pulpa",
+        "Sement",
+        "Mina",
+        "Qüzehli"
+      ],
+      "answer": "Mina",
+      "answerIndex": 2
+    },
+    {
+      "id": 276,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Heyvanlar",
+      "question": "Zürafənin boynunda neçə fəqərə var?",
+      "options": [
+        "14",
+        "20",
+        "30",
+        "7"
+      ],
+      "answer": "7",
+      "answerIndex": 3
+    },
+    {
+      "id": 277,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Gündəlik həyat",
+      "question": "Azərbaycan mətbəxində çörək bişirmək üçün istifadə olunan ənənəvi gil soba necə adlanır?",
+      "options": [
+        "Təndir",
+        "Sac",
+        "Tava",
+        "Mangal"
+      ],
+      "answer": "Təndir",
+      "answerIndex": 0
+    },
+    {
+      "id": 278,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Maraqlı məlumatlar",
+      "question": "Məşhur şahmatçı Qarri Kasparov hansı şəhərdə anadan olub?",
+      "options": [
+        "Moskvada",
+        "Bakıda",
+        "Tbilisidə",
+        "Kiyevdə"
+      ],
+      "answer": "Bakıda",
+      "answerIndex": 1
+    },
+    {
+      "id": 279,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Təbiət",
+      "question": "Dünyanın ən hündür şəlaləsi hansıdır?",
+      "options": [
+        "Niaqara",
+        "Viktoriya",
+        "Anxel",
+        "İquasu"
+      ],
+      "answer": "Anxel",
+      "answerIndex": 2
+    },
+    {
+      "id": 280,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "İnsan",
+      "question": "Normal insan hüceyrəsində neçə xromosom var?",
+      "options": [
+        "23",
+        "48",
+        "44",
+        "46"
+      ],
+      "answer": "46",
+      "answerIndex": 3
+    },
+    {
+      "id": 281,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Texnologiya",
+      "question": "USB abreviaturası nəyi bildirir?",
+      "options": [
+        "Universal Serial Bus",
+        "United Screen Base",
+        "Ultra Speed Band",
+        "Unique System Board"
+      ],
+      "answer": "Universal Serial Bus",
+      "answerIndex": 0
+    },
+    {
+      "id": 282,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Yeməklər",
+      "question": "Şəki piti ənənəvi olaraq hansı ət növündən hazırlanır?",
+      "options": [
+        "Balıq ətindən",
+        "Qoyun ətindən",
+        "Toyuq ətindən",
+        "Dəvə ətindən"
+      ],
+      "answer": "Qoyun ətindən",
+      "answerIndex": 1
+    },
+    {
+      "id": 283,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "İnsan",
+      "question": "DNT molekulunun forması necədir?",
+      "options": [
+        "Düz xətt",
+        "Üçbucaq",
+        "İkiqat spiral",
+        "Dairə"
+      ],
+      "answer": "İkiqat spiral",
+      "answerIndex": 2
+    },
+    {
+      "id": 284,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Maraqlı məlumatlar",
+      "question": "Paris şəhəri hansı çayın sahilindədir?",
+      "options": [
+        "Dunay",
+        "Reyn",
+        "Tames",
+        "Sena"
+      ],
+      "answer": "Sena",
+      "answerIndex": 3
+    },
+    {
+      "id": 285,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Heyvanlar",
+      "question": "Qütb ayısı harada yaşayır?",
+      "options": [
+        "Arktikada",
+        "Antarktidada",
+        "Afrikada",
+        "Avstraliyada"
+      ],
+      "answer": "Arktikada",
+      "answerIndex": 0
+    },
+    {
+      "id": 286,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Təbiət",
+      "question": "Ozon təbəqəsi bizi nədən qoruyur?",
+      "options": [
+        "Yağışdan",
+        "Ultrabənövşəyi şüalardan",
+        "Küləkdən",
+        "Səsdən"
+      ],
+      "answer": "Ultrabənövşəyi şüalardan",
+      "answerIndex": 1
+    },
+    {
+      "id": 287,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Atalar sözləri",
+      "question": "Atalar sözünü tamamlayın: Qılınc yarası sağalar, dil yarası ___.",
+      "options": [
+        "tez keçər",
+        "yüngül olar",
+        "sağalmaz",
+        "şirin olar"
+      ],
+      "answer": "sağalmaz",
+      "answerIndex": 2
+    },
+    {
+      "id": 288,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Maraqlı məlumatlar",
+      "question": "Azərbaycanın ən böyük gölü hansıdır?",
+      "options": [
+        "Göygöl",
+        "Maralgöl",
+        "Hacıqabul gölü",
+        "Sarısu"
+      ],
+      "answer": "Sarısu",
+      "answerIndex": 3
+    },
+    {
+      "id": 289,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Təbiət",
+      "question": "Qütb bölgələrində müşahidə olunan rəngarəng işıq hadisəsi necə adlanır?",
+      "options": [
+        "Şimal parıltısı (aurora)",
+        "Göy qurşağı",
+        "Ildırım",
+        "Sərab"
+      ],
+      "answer": "Şimal parıltısı (aurora)",
+      "answerIndex": 0
+    },
+    {
+      "id": 290,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Heyvanlar",
+      "question": "Aşağıdakılardan hansı heyvan məməlidir?",
+      "options": [
+        "Köpəkbalığı",
+        "Balina",
+        "Ahtapot",
+        "Timsah"
+      ],
+      "answer": "Balina",
+      "answerIndex": 1
+    },
+    {
+      "id": 291,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "İnsan",
+      "question": "Qan təzyiqini ölçən cihaz necə adlanır?",
+      "options": [
+        "Termometr",
+        "Barometr",
+        "Tonometr",
+        "Spirometr"
+      ],
+      "answer": "Tonometr",
+      "answerIndex": 2
+    },
+    {
+      "id": 292,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Heyvanlar",
+      "question": "İlan dilini tez-tez çıxarmaqla nəyi edir?",
+      "options": [
+        "Su içir",
+        "Səs çıxarır",
+        "Yemək doğrayır",
+        "Qoxu hiss edir"
+      ],
+      "answer": "Qoxu hiss edir",
+      "answerIndex": 3
+    },
+    {
+      "id": 293,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Atalar sözləri",
+      "question": "“Yeddi ölç, bir biç” atalar sözü bizə nəyi tövsiyə edir?",
+      "options": [
+        "Qərar verməzdən əvvəl yaxşı düşünməyi",
+        "Tez qərar verməyi",
+        "Heç nəyi ölçməməyi",
+        "Çox danışmağı"
+      ],
+      "answer": "Qərar verməzdən əvvəl yaxşı düşünməyi",
+      "answerIndex": 0
+    },
+    {
+      "id": 294,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Yeməklər",
+      "question": "Pomidorun vətəni hansı qitə hesab olunur?",
+      "options": [
+        "Avropa",
+        "Cənubi Amerika",
+        "Avstraliya",
+        "Asiya"
+      ],
+      "answer": "Cənubi Amerika",
+      "answerIndex": 1
+    },
+    {
+      "id": 295,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "İnsan",
+      "question": "İnsan skeletində ən kiçik sümük harada yerləşir?",
+      "options": [
+        "Əlin barmağında",
+        "Ayaq pəncəsində",
+        "Orta qulaqda",
+        "Boyunda"
+      ],
+      "answer": "Orta qulaqda",
+      "answerIndex": 2
+    },
+    {
+      "id": 296,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Texnologiya",
+      "question": "1 bayt neçə bitdən ibarətdir?",
+      "options": [
+        "4",
+        "16",
+        "10",
+        "8"
+      ],
+      "answer": "8",
+      "answerIndex": 3
+    },
+    {
+      "id": 297,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Təbiət",
+      "question": "Yer kürəsi öz oxu ətrafında bir dövrəni təxminən nə qədər vaxta tamamlayır?",
+      "options": [
+        "24 saata",
+        "12 saata",
+        "7 günə",
+        "365 günə"
+      ],
+      "answer": "24 saata",
+      "answerIndex": 0
+    },
+    {
+      "id": 298,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Texnologiya",
+      "question": "Süni intellekt (AI) nədir?",
+      "options": [
+        "Yalnız oyun proqramı",
+        "İnsan zəkası tələb edən işləri yerinə yetirə bilən kompüter sistemləri",
+        "Elektrik enerjisi növü",
+        "Kompüter klaviaturasının növü"
+      ],
+      "answer": "İnsan zəkası tələb edən işləri yerinə yetirə bilən kompüter sistemləri",
+      "answerIndex": 1
+    },
+    {
+      "id": 299,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Heyvanlar",
+      "question": "Ən sürətli quş hansıdır (şığıma zamanı)?",
+      "options": [
+        "Dəvəquşu",
+        "Göyərçin",
+        "Peregrin şahini",
+        "Sərçə"
+      ],
+      "answer": "Peregrin şahini",
+      "answerIndex": 2
+    },
+    {
+      "id": 300,
+      "level": 3,
+      "difficulty": "Orta",
+      "category": "Heyvanlar",
+      "question": "Yarasalar qaranlıqda necə istiqamət tapır?",
+      "options": [
+        "Qoxu ilə",
+        "Rənglərə baxaraq",
+        "Külək vasitəsilə",
+        "Exolokasiya ilə"
+      ],
+      "answer": "Exolokasiya ilə",
+      "answerIndex": 3
+    },
+    {
+      "id": 301,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Atalar sözləri",
+      "question": "“Ac toyuq yuxusunda darı görər” atalar sözü nəyi bildirir?",
+      "options": [
+        "İnsan nəyə ehtiyac duyursa, onu arzulayır və xəyal edir",
+        "Toyuqlar çox yatır",
+        "Darı ən faydalı yemdir",
+        "Yuxu insanı doyurur"
+      ],
+      "answer": "İnsan nəyə ehtiyac duyursa, onu arzulayır və xəyal edir",
+      "answerIndex": 0
+    },
+    {
+      "id": 302,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Gündəlik həyat",
+      "question": "Sürəti 90 km/saat olan avtomobil saniyədə neçə metr yol gedir?",
+      "options": [
+        "90 metr",
+        "25 metr",
+        "15 metr",
+        "50 metr"
+      ],
+      "answer": "25 metr",
+      "answerIndex": 1
+    },
+    {
+      "id": 303,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Yeməklər",
+      "question": "Çörəyin kabarmasını təmin edən mikroorqanizm hansıdır?",
+      "options": [
+        "Virus",
+        "Yosun",
+        "Maya göbələyi",
+        "Amöba"
+      ],
+      "answer": "Maya göbələyi",
+      "answerIndex": 2
+    },
+    {
+      "id": 304,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Yeməklər",
+      "question": "Sirkənin əsas turşusu hansıdır?",
+      "options": [
+        "Limon turşusu",
+        "Süd turşusu",
+        "Alma turşusu",
+        "Sirkə turşusu"
+      ],
+      "answer": "Sirkə turşusu",
+      "answerIndex": 3
+    },
+    {
+      "id": 305,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Gündəlik həyat",
+      "question": "Azərbaycan hansı saat qurşağında yerləşir?",
+      "options": [
+        "UTC+4",
+        "UTC+1",
+        "UTC+8",
+        "UTC−3"
+      ],
+      "answer": "UTC+4",
+      "answerIndex": 0
+    },
+    {
+      "id": 306,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Təbiət",
+      "question": "Zəlzələlərin əsas səbəbi nədir?",
+      "options": [
+        "Yağışın çoxluğu",
+        "Tektonik plitələrin hərəkəti",
+        "Ayın cazibəsi",
+        "Küləyin gücü"
+      ],
+      "answer": "Tektonik plitələrin hərəkəti",
+      "answerIndex": 1
+    },
+    {
+      "id": 307,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Heyvanlar",
+      "question": "Yumurta qoyan məməlilərdən biri hansıdır?",
+      "options": [
+        "Delfin",
+        "Kenquru",
+        "Ornitorink (ördəkburun)",
+        "Pişik"
+      ],
+      "answer": "Ornitorink (ördəkburun)",
+      "answerIndex": 2
+    },
+    {
+      "id": 308,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Atalar sözləri",
+      "question": "“Bir fincan kofenin qırx il xətri var” atalar sözünün mənası nədir?",
+      "options": [
+        "Kofe çox bahalıdır",
+        "Kofe içmək zərərlidir",
+        "Qonaq çox gec gəlir",
+        "Edilən yaxşılıq uzun müddət xatırlanır"
+      ],
+      "answer": "Edilən yaxşılıq uzun müddət xatırlanır",
+      "answerIndex": 3
+    },
+    {
+      "id": 309,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Təbiət",
+      "question": "İşığın vakuumda sürəti təxminən nə qədərdir?",
+      "options": [
+        "300 000 km/san",
+        "30 000 km/san",
+        "3 000 km/san",
+        "3 000 000 km/san"
+      ],
+      "answer": "300 000 km/san",
+      "answerIndex": 0
+    },
+    {
+      "id": 310,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "İnsan",
+      "question": "Ağ qan hüceyrələrinin (leykositlərin) əsas funksiyası nədir?",
+      "options": [
+        "Oksigen daşımaq",
+        "İmmun müdafiə",
+        "Qanı laxtalandırmaq",
+        "Sümük yaratmaq"
+      ],
+      "answer": "İmmun müdafiə",
+      "answerIndex": 1
+    },
+    {
+      "id": 311,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Texnologiya",
+      "question": "Kvant kompüterlərində məlumatın əsas vahidi necə adlanır?",
+      "options": [
+        "Bayt",
+        "Piksel",
+        "Kubit",
+        "Vat"
+      ],
+      "answer": "Kubit",
+      "answerIndex": 2
+    },
+    {
+      "id": 312,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Heyvanlar",
+      "question": "Hansı quş geriyə doğru uça bilir?",
+      "options": [
+        "Qartal",
+        "Göyərçin",
+        "Bayquş",
+        "Kolibri"
+      ],
+      "answer": "Kolibri",
+      "answerIndex": 3
+    },
+    {
+      "id": 313,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Atalar sözləri",
+      "question": "“Quyu qazan özü düşər” atalar sözünün mənası nədir?",
+      "options": [
+        "Başqasına pislik edən özü zərər görər",
+        "Quyu qazmaq çətin işdir",
+        "Su tapmaq üçün dərin qazmaq lazımdır",
+        "Quyular təhlükəlidir"
+      ],
+      "answer": "Başqasına pislik edən özü zərər görər",
+      "answerIndex": 0
+    },
+    {
+      "id": 314,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Atalar sözləri",
+      "question": "“Ağıl yaşda deyil, başdadır” atalar sözünün mənası nədir?",
+      "options": [
+        "Yaşlılar həmişə ağıllıdır",
+        "Ağıllı olmaq yaşdan deyil, düşüncədən asılıdır",
+        "Uşaqlar çox oxumalıdır",
+        "Başı qorumaq lazımdır"
+      ],
+      "answer": "Ağıllı olmaq yaşdan deyil, düşüncədən asılıdır",
+      "answerIndex": 1
+    },
+    {
+      "id": 315,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Yeməklər",
+      "question": "Kofenin iki əsas növü hansılardır?",
+      "options": [
+        "Latte və Kapuçino",
+        "Espresso və Mokko",
+        "Arabika və Robusta",
+        "Americano və Makkiato"
+      ],
+      "answer": "Arabika və Robusta",
+      "answerIndex": 2
+    },
+    {
+      "id": 316,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "İnsan",
+      "question": "İnsan genomunda protein kodlaşdıran genlərin sayı təxminən nə qədərdir?",
+      "options": [
+        "Təxminən 200",
+        "Təxminən 2 milyon",
+        "Təxminən 2 milyard",
+        "Təxminən 20 min"
+      ],
+      "answer": "Təxminən 20 min",
+      "answerIndex": 3
+    },
+    {
+      "id": 317,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "İnsan",
+      "question": "Qırmızı qan hüceyrələri (eritrositlər) orta hesabla neçə gün yaşayır?",
+      "options": [
+        "Təxminən 120 gün",
+        "Təxminən 1 gün",
+        "Təxminən 10 gün",
+        "Təxminən 2 il"
+      ],
+      "answer": "Təxminən 120 gün",
+      "answerIndex": 0
+    },
+    {
+      "id": 318,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Maraqlı məlumatlar",
+      "question": "Dünyanın ən kiçik ölkəsi hansıdır?",
+      "options": [
+        "Monako",
+        "Vatikan",
+        "San-Marino",
+        "Lixtenşteyn"
+      ],
+      "answer": "Vatikan",
+      "answerIndex": 1
+    },
+    {
+      "id": 319,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Texnologiya",
+      "question": "Fiber optik kabellərdə məlumat nə ilə ötürülür?",
+      "options": [
+        "Su ilə",
+        "Səs dalğaları ilə",
+        "İşıq siqnalları ilə",
+        "Maqnit sahəsi ilə"
+      ],
+      "answer": "İşıq siqnalları ilə",
+      "answerIndex": 2
+    },
+    {
+      "id": 320,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Heyvanlar",
+      "question": "Qan sorub insana sancan ağcaqanadlar hansı cinsdəndir?",
+      "options": [
+        "Erkək",
+        "Hər ikisi",
+        "Yalnız sürfələr",
+        "Dişi"
+      ],
+      "answer": "Dişi",
+      "answerIndex": 3
+    },
+    {
+      "id": 321,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Heyvanlar",
+      "question": "Əsasən evkalipt yarpaqları ilə qidalanan heyvan hansıdır?",
+      "options": [
+        "Koala",
+        "Panda",
+        "Kenquru",
+        "Zebr"
+      ],
+      "answer": "Koala",
+      "answerIndex": 0
+    },
+    {
+      "id": 322,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Gündəlik həyat",
+      "question": "Bank kartının arxasındakı CVV kod nə üçün istifadə olunur?",
+      "options": [
+        "Kartın rəngini göstərmək üçün",
+        "Onlayn ödənişlərdə təhlükəsizlik üçün",
+        "Kartın qiymətini bildirmək üçün",
+        "Kartı yenidən doldurmaq üçün"
+      ],
+      "answer": "Onlayn ödənişlərdə təhlükəsizlik üçün",
+      "answerIndex": 1
+    },
+    {
+      "id": 323,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Texnologiya",
+      "question": "Python proqramlaşdırma dilinin adı hansı komediya qrupundan götürülüb?",
+      "options": [
+        "Laurel və Hardi",
+        "Tom və Cerri",
+        "Monty Python",
+        "Çarli Çaplin"
+      ],
+      "answer": "Monty Python",
+      "answerIndex": 2
+    },
+    {
+      "id": 324,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Atalar sözləri",
+      "question": "Atalar sözləri xalq yaradıcılığının hansı sahəsinə aiddir?",
+      "options": [
+        "Memarlığa",
+        "Rəssamlığa",
+        "Texnologiyaya",
+        "Folklora"
+      ],
+      "answer": "Folklora",
+      "answerIndex": 3
+    },
+    {
+      "id": 325,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Maraqlı məlumatlar",
+      "question": "Berlin divarı neçənci ildə yıxılıb?",
+      "options": [
+        "1989",
+        "1991",
+        "1979",
+        "1999"
+      ],
+      "answer": "1989",
+      "answerIndex": 0
+    },
+    {
+      "id": 326,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Gündəlik həyat",
+      "question": "1 mil təxminən neçə kilometrdir?",
+      "options": [
+        "0,6 km",
+        "1,6 km",
+        "3 km",
+        "10 km"
+      ],
+      "answer": "1,6 km",
+      "answerIndex": 1
+    },
+    {
+      "id": 327,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Gündəlik həyat",
+      "question": "Qida məhsullarının etiketində “E” hərfi ilə başlayan kodlar nəyi bildirir?",
+      "options": [
+        "Məhsulun istehsal ölkəsini",
+        "Qiymətini",
+        "Qida əlavələrini",
+        "Çəkisini"
+      ],
+      "answer": "Qida əlavələrini",
+      "answerIndex": 2
+    },
+    {
+      "id": 328,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "İnsan",
+      "question": "İnsan skeletində ən uzun sümük hansıdır?",
+      "options": [
+        "Qol sümüyü",
+        "Qabırğa",
+        "Çiyin sümüyü",
+        "Bud sümüyü"
+      ],
+      "answer": "Bud sümüyü",
+      "answerIndex": 3
+    },
+    {
+      "id": 329,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Maraqlı məlumatlar",
+      "question": "Xristofor Kolumb Amerika qitəsinə ilk səfərini neçənci ildə edib?",
+      "options": [
+        "1492",
+        "1453",
+        "1519",
+        "1607"
+      ],
+      "answer": "1492",
+      "answerIndex": 0
+    },
+    {
+      "id": 330,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "İnsan",
+      "question": "İnsan ürəyi neçə kameradan ibarətdir?",
+      "options": [
+        "2",
+        "4",
+        "3",
+        "6"
+      ],
+      "answer": "4",
+      "answerIndex": 1
+    },
+    {
+      "id": 331,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Heyvanlar",
+      "question": "Hansı heyvanın qanı hemosianin sayəsində mavi rəngdə olur?",
+      "options": [
+        "Atın",
+        "İtin",
+        "Ahtapotun",
+        "Quşun"
+      ],
+      "answer": "Ahtapotun",
+      "answerIndex": 2
+    },
+    {
+      "id": 332,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Yeməklər",
+      "question": "Kimçi hansı ölkənin milli yeməyidir?",
+      "options": [
+        "Yaponiyanın",
+        "Çinin",
+        "Tailandın",
+        "Koreyanın"
+      ],
+      "answer": "Koreyanın",
+      "answerIndex": 3
+    },
+    {
+      "id": 333,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Atalar sözləri",
+      "question": "“Nə əkərsən, onu biçərsən” atalar sözü nəyi ifadə edir?",
+      "options": [
+        "İnsan etdiyi əməlin nəticəsini görür",
+        "Əkin yalnız payızda aparılır",
+        "Biçin işi çox yorucudur",
+        "Torpaq hər yerdə eynidir"
+      ],
+      "answer": "İnsan etdiyi əməlin nəticəsini görür",
+      "answerIndex": 0
+    },
+    {
+      "id": 334,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Maraqlı məlumatlar",
+      "question": "Qız qalası ilə birlikdə Şirvanşahlar Sarayı kompleksi UNESCO-nun Ümumdünya İrs siyahısına neçənci ildə daxil edilib?",
+      "options": [
+        "1990",
+        "2000",
+        "2010",
+        "1995"
+      ],
+      "answer": "2000",
+      "answerIndex": 1
+    },
+    {
+      "id": 335,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Yeməklər",
+      "question": "Çay yarpaqlarının tam oksidləşməsindən hansı çay alınır?",
+      "options": [
+        "Yaşıl çay",
+        "Ağ çay",
+        "Qara çay",
+        "Oolong"
+      ],
+      "answer": "Qara çay",
+      "answerIndex": 2
+    },
+    {
+      "id": 336,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Heyvanlar",
+      "question": "Fil hamiləliyi təxminən neçə ay davam edir?",
+      "options": [
+        "9",
+        "12",
+        "6",
+        "22"
+      ],
+      "answer": "22",
+      "answerIndex": 3
+    },
+    {
+      "id": 337,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Yeməklər",
+      "question": "Sushi-nin bükülməsində istifadə olunan yosun necə adlanır?",
+      "options": [
+        "Nori",
+        "Tofu",
+        "Miso",
+        "Vasabi"
+      ],
+      "answer": "Nori",
+      "answerIndex": 0
+    },
+    {
+      "id": 338,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "İnsan",
+      "question": "Daun sindromu hansı xromosomun əlavə nüsxəsi ilə bağlıdır?",
+      "options": [
+        "7-ci",
+        "21-ci",
+        "13-cü",
+        "1-ci"
+      ],
+      "answer": "21-ci",
+      "answerIndex": 1
+    },
+    {
+      "id": 339,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Maraqlı məlumatlar",
+      "question": "Fransa İnqilabı neçənci ildə başlayıb?",
+      "options": [
+        "1799",
+        "1815",
+        "1789",
+        "1848"
+      ],
+      "answer": "1789",
+      "answerIndex": 2
+    },
+    {
+      "id": 340,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "İnsan",
+      "question": "Dopamin neyromediatoru əsasən nə ilə əlaqələndirilir?",
+      "options": [
+        "Qanın laxtalanması",
+        "Sümük böyüməsi",
+        "Həzm",
+        "Həzz və motivasiya"
+      ],
+      "answer": "Həzz və motivasiya",
+      "answerIndex": 3
+    },
+    {
+      "id": 341,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Texnologiya",
+      "question": "IP ünvanı nə üçün istifadə olunur?",
+      "options": [
+        "Şəbəkədə cihazı müəyyən etmək üçün",
+        "Elektrik cərəyanını ölçmək üçün",
+        "Səsi gücləndirmək üçün",
+        "Ekranı parlaq etmək üçün"
+      ],
+      "answer": "Şəbəkədə cihazı müəyyən etmək üçün",
+      "answerIndex": 0
+    },
+    {
+      "id": 342,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Təbiət",
+      "question": "Marsın neçə təbii peyki var?",
+      "options": [
+        "1",
+        "2",
+        "4",
+        "0"
+      ],
+      "answer": "2",
+      "answerIndex": 1
+    },
+    {
+      "id": 343,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "İnsan",
+      "question": "Yuxu rejiminin tənzimlənməsində iştirak edən hormon hansıdır?",
+      "options": [
+        "Adrenalin",
+        "İnsulin",
+        "Melatonin",
+        "Kortizol"
+      ],
+      "answer": "Melatonin",
+      "answerIndex": 2
+    },
+    {
+      "id": 344,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Heyvanlar",
+      "question": "Dəniz ulduzunun nəyi yoxdur?",
+      "options": [
+        "Qolları",
+        "Dərisi",
+        "Rəngi",
+        "Mərkəzləşmiş beyni"
+      ],
+      "answer": "Mərkəzləşmiş beyni",
+      "answerIndex": 3
+    },
+    {
+      "id": 345,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Maraqlı məlumatlar",
+      "question": "Dünyanın ən qədim fəaliyyətdə olan universiteti sayılan Əl-Qərəviyyin harada yerləşir?",
+      "options": [
+        "Fasda",
+        "Misirdə",
+        "İtaliyada",
+        "Hindistanda"
+      ],
+      "answer": "Fasda",
+      "answerIndex": 0
+    },
+    {
+      "id": 346,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Gündəlik həyat",
+      "question": "Südün pasterizasiyası nə deməkdir?",
+      "options": [
+        "Südü dondurmaq",
+        "Zərərli mikroorqanizmləri azaltmaq üçün qısa müddət qızdırmaq",
+        "Südə şəkər qatmaq",
+        "Südü qurutmaq"
+      ],
+      "answer": "Zərərli mikroorqanizmləri azaltmaq üçün qısa müddət qızdırmaq",
+      "answerIndex": 1
+    },
+    {
+      "id": 347,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Texnologiya",
+      "question": "SSD-nin ənənəvi HDD-dən əsas fərqi nədir?",
+      "options": [
+        "Daha ağırdır",
+        "Yalnız oyunlarda istifadə olunur",
+        "Hərəkət edən mexaniki hissələri yoxdur",
+        "Elektrik tələb etmir"
+      ],
+      "answer": "Hərəkət edən mexaniki hissələri yoxdur",
+      "answerIndex": 2
+    },
+    {
+      "id": 348,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Təbiət",
+      "question": "Qara dəlik nədir?",
+      "options": [
+        "Çox parlaq ulduz",
+        "Soyuq planet",
+        "Nəhəng asteroid",
+        "Cazibəsi işığın belə çıxmasına imkan verməyən kosmik obyekt"
+      ],
+      "answer": "Cazibəsi işığın belə çıxmasına imkan verməyən kosmik obyekt",
+      "answerIndex": 3
+    },
+    {
+      "id": 349,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Texnologiya",
+      "question": "İkilik say sistemində 101 ədədi onluq sistemdə neçəyə bərabərdir?",
+      "options": [
+        "5",
+        "3",
+        "7",
+        "10"
+      ],
+      "answer": "5",
+      "answerIndex": 0
+    },
+    {
+      "id": 350,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Təbiət",
+      "question": "Dünyanın ən çox yağıntı alan yerlərindən biri olan Çerapunci hansı ölkədədir?",
+      "options": [
+        "Braziliya",
+        "Hindistan",
+        "Misir",
+        "Rusiya"
+      ],
+      "answer": "Hindistan",
+      "answerIndex": 1
+    },
+    {
+      "id": 351,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Texnologiya",
+      "question": "Blokçeyn texnologiyasının əsas xüsusiyyəti nədir?",
+      "options": [
+        "Yalnız şəkil saxlaması",
+        "Elektrik enerjisi istehsalı",
+        "Məlumatların zəncirvari və paylanmış şəkildə saxlanması",
+        "Səsləri yazması"
+      ],
+      "answer": "Məlumatların zəncirvari və paylanmış şəkildə saxlanması",
+      "answerIndex": 2
+    },
+    {
+      "id": 352,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Maraqlı məlumatlar",
+      "question": "Titanik gəmisi neçənci ildə batıb?",
+      "options": [
+        "1905",
+        "1920",
+        "1898",
+        "1912"
+      ],
+      "answer": "1912",
+      "answerIndex": 3
+    },
+    {
+      "id": 353,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "İnsan",
+      "question": "Stres hormonu adlanan hormon hansıdır?",
+      "options": [
+        "Kortizol",
+        "Melatonin",
+        "İnsulin",
+        "Tiroksin"
+      ],
+      "answer": "Kortizol",
+      "answerIndex": 0
+    },
+    {
+      "id": 354,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Heyvanlar",
+      "question": "Qoyun və keçilərin bəbəyi necə formadadır?",
+      "options": [
+        "Üçbucaqlı",
+        "Üfüqi düzbucaqlı",
+        "Tam dairəvi",
+        "Ulduz şəkilli"
+      ],
+      "answer": "Üfüqi düzbucaqlı",
+      "answerIndex": 1
+    },
+    {
+      "id": 355,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Maraqlı məlumatlar",
+      "question": "Fizika üzrə Nobel mükafatı laureatı Lev Landau hansı şəhərdə doğulub?",
+      "options": [
+        "Moskvada",
+        "Kiyevdə",
+        "Bakıda",
+        "Minskdə"
+      ],
+      "answer": "Bakıda",
+      "answerIndex": 2
+    },
+    {
+      "id": 356,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "İnsan",
+      "question": "Penisilini kim kəşf edib?",
+      "options": [
+        "Lui Paster",
+        "Edvard Cenner",
+        "Robert Kox",
+        "Aleksandr Fleminq"
+      ],
+      "answer": "Aleksandr Fleminq",
+      "answerIndex": 3
+    },
+    {
+      "id": 357,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Texnologiya",
+      "question": "Dünya Şəbəkəsini (WWW) icad edən alim kimdir?",
+      "options": [
+        "Tim Berners-Li",
+        "Bill Qeyts",
+        "Stiv Cobs",
+        "Mark Sukerberq"
+      ],
+      "answer": "Tim Berners-Li",
+      "answerIndex": 0
+    },
+    {
+      "id": 358,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Təbiət",
+      "question": "Yerin nüvəsi əsasən hansı elementlərdən ibarətdir?",
+      "options": [
+        "Qızıl və gümüş",
+        "Dəmir və nikel",
+        "Alüminium və mis",
+        "Silisium və karbon"
+      ],
+      "answer": "Dəmir və nikel",
+      "answerIndex": 1
+    },
+    {
+      "id": 359,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Texnologiya",
+      "question": "HTTPS protokolunda “S” hərfi nəyi bildirir?",
+      "options": [
+        "Speed (sürət)",
+        "Server (server)",
+        "Secure (təhlükəsiz)",
+        "Screen (ekran)"
+      ],
+      "answer": "Secure (təhlükəsiz)",
+      "answerIndex": 2
+    },
+    {
+      "id": 360,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Gündəlik həyat",
+      "question": "Təyyarələrdəki “qara qutu” əslində hansı rəngdədir?",
+      "options": [
+        "Qara",
+        "Mavi",
+        "Yaşıl",
+        "Narıncı"
+      ],
+      "answer": "Narıncı",
+      "answerIndex": 3
+    },
+    {
+      "id": 361,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Heyvanlar",
+      "question": "Öküzlər əslində nəyə daha çox reaksiya verir?",
+      "options": [
+        "Hərəkətə",
+        "Yalnız qırmızı rəngə",
+        "Yalnız qoxuya",
+        "Yalnız səsə"
+      ],
+      "answer": "Hərəkətə",
+      "answerIndex": 0
+    },
+    {
+      "id": 362,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Maraqlı məlumatlar",
+      "question": "Azərbaycan Xalq Cümhuriyyəti neçənci ildə yaradılıb?",
+      "options": [
+        "1920",
+        "1918",
+        "1991",
+        "1905"
+      ],
+      "answer": "1918",
+      "answerIndex": 1
+    },
+    {
+      "id": 363,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Heyvanlar",
+      "question": "Hansı heyvanlar ayaq üstə də yata bilir?",
+      "options": [
+        "Delfinlər",
+        "Qurbağalar",
+        "Atlar",
+        "Hörümçəklər"
+      ],
+      "answer": "Atlar",
+      "answerIndex": 2
+    },
+    {
+      "id": 364,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Maraqlı məlumatlar",
+      "question": "Çernobıl atom elektrik stansiyasında qəza neçənci ildə baş verib?",
+      "options": [
+        "1979",
+        "1991",
+        "2001",
+        "1986"
+      ],
+      "answer": "1986",
+      "answerIndex": 3
+    },
+    {
+      "id": 365,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Yeməklər",
+      "question": "Aşağıdakılardan hansı bitki mənşəli zülal mənbəyidir?",
+      "options": [
+        "Mərcimək",
+        "Şəkər",
+        "Kərə yağı",
+        "Duz"
+      ],
+      "answer": "Mərcimək",
+      "answerIndex": 0
+    },
+    {
+      "id": 366,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Təbiət",
+      "question": "Yer kürəsində şirin suyun əsas hissəsi harada saxlanılır?",
+      "options": [
+        "Çaylarda",
+        "Buzlaqlarda",
+        "Göllərdə",
+        "Yağışda"
+      ],
+      "answer": "Buzlaqlarda",
+      "answerIndex": 1
+    },
+    {
+      "id": 367,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Heyvanlar",
+      "question": "Kəpənəyin tam çevrilməsində neçə həyat mərhələsi olur?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "6"
+      ],
+      "answer": "4",
+      "answerIndex": 2
+    },
+    {
+      "id": 368,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "İnsan",
+      "question": "Rentgen şüalarını kim kəşf edib?",
+      "options": [
+        "Mariya Küri",
+        "Aleksandr Fleminq",
+        "Lui Paster",
+        "Vilhelm Rentgen"
+      ],
+      "answer": "Vilhelm Rentgen",
+      "answerIndex": 3
+    },
+    {
+      "id": 369,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Yeməklər",
+      "question": "Pendir istehsalında südü laxtalandırmaq üçün istifadə olunan ferment necə adlanır?",
+      "options": [
+        "Pendirmaya (rennet)",
+        "Şəkər",
+        "Duz",
+        "Soda"
+      ],
+      "answer": "Pendirmaya (rennet)",
+      "answerIndex": 0
+    },
+    {
+      "id": 370,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "İnsan",
+      "question": "İnsan orqanizmində ən çox oksigen sərf edən orqanlardan biri hansıdır?",
+      "options": [
+        "Saç",
+        "Beyin",
+        "Dırnaq",
+        "Diş mina"
+      ],
+      "answer": "Beyin",
+      "answerIndex": 1
+    },
+    {
+      "id": 371,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Gündəlik həyat",
+      "question": "Görünən işıq spektrində hansı rəng ən uzun dalğa uzunluğuna malikdir?",
+      "options": [
+        "Bənövşəyi",
+        "Mavi",
+        "Qırmızı",
+        "Yaşıl"
+      ],
+      "answer": "Qırmızı",
+      "answerIndex": 2
+    },
+    {
+      "id": 372,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Təbiət",
+      "question": "Atmosferin Yerə ən yaxın qatı necə adlanır?",
+      "options": [
+        "Stratosfer",
+        "Mezosfer",
+        "Ekzosfer",
+        "Troposfer"
+      ],
+      "answer": "Troposfer",
+      "answerIndex": 3
+    },
+    {
+      "id": 373,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Maraqlı məlumatlar",
+      "question": "Müasir Olimpiya oyunları ilk dəfə neçənci ildə keçirilib?",
+      "options": [
+        "1896",
+        "1900",
+        "1924",
+        "1936"
+      ],
+      "answer": "1896",
+      "answerIndex": 0
+    },
+    {
+      "id": 374,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Yeməklər",
+      "question": "Yerkökündəki narıncı piqment hansı vitaminin əmələ gəlməsində iştirak edir?",
+      "options": [
+        "B12 vitamini",
+        "A vitamini",
+        "D vitamini",
+        "K vitamini"
+      ],
+      "answer": "A vitamini",
+      "answerIndex": 1
+    },
+    {
+      "id": 375,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Maraqlı məlumatlar",
+      "question": "Azərbaycanda latın qrafikalı əlifbaya yenidən qayıdış haqqında qanun neçənci ildə qəbul edilib?",
+      "options": [
+        "1929",
+        "1939",
+        "1991",
+        "2001"
+      ],
+      "answer": "1991",
+      "answerIndex": 2
+    },
+    {
+      "id": 376,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Təbiət",
+      "question": "Halley kometi təxminən neçə ildən bir Yerdən görünür?",
+      "options": [
+        "10 ildən bir",
+        "200 ildən bir",
+        "1000 ildən bir",
+        "76 ildən bir"
+      ],
+      "answer": "76 ildən bir",
+      "answerIndex": 3
+    },
+    {
+      "id": 377,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Texnologiya",
+      "question": "Bitkoinin yaradıcısı hansı təxəllüslə tanınır?",
+      "options": [
+        "Satoşi Nakamoto",
+        "Vitalik Buterin",
+        "Elon Mask",
+        "Pavel Durov"
+      ],
+      "answer": "Satoşi Nakamoto",
+      "answerIndex": 0
+    },
+    {
+      "id": 378,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Gündəlik həyat",
+      "question": "Dəniz səviyyəsindən yuxarı qalxdıqca atmosfer təzyiqi necə dəyişir?",
+      "options": [
+        "Artır",
+        "Azalır",
+        "Dəyişmir",
+        "Yalnız gecələr azalır"
+      ],
+      "answer": "Azalır",
+      "answerIndex": 1
+    },
+    {
+      "id": 379,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Təbiət",
+      "question": "Dünyanın ən böyük adası hansıdır?",
+      "options": [
+        "Madaqaskar",
+        "Borneo",
+        "Qrenlandiya",
+        "Yeni Qvineya"
+      ],
+      "answer": "Qrenlandiya",
+      "answerIndex": 2
+    },
+    {
+      "id": 380,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Texnologiya",
+      "question": "Mur qanunu nəyi proqnozlaşdırır?",
+      "options": [
+        "Telefon qiymətlərinin düşməsini",
+        "İnternet sürətinin sabit qalmasını",
+        "Batareyaların ömrünün artmasını",
+        "Mikroçipdəki tranzistorların sayının təxminən iki ildən bir ikiqat artmasını"
+      ],
+      "answer": "Mikroçipdəki tranzistorların sayının təxminən iki ildən bir ikiqat artmasını",
+      "answerIndex": 3
+    },
+    {
+      "id": 381,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Texnologiya",
+      "question": "Kompüterdə RAM nə üçün istifadə olunur?",
+      "options": [
+        "İş zamanı müvəqqəti yaddaş üçün",
+        "Qalıcı fotoların saxlanması üçün",
+        "Səs çıxarmaq üçün",
+        "Ekranı soyutmaq üçün"
+      ],
+      "answer": "İş zamanı müvəqqəti yaddaş üçün",
+      "answerIndex": 0
+    },
+    {
+      "id": 382,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Heyvanlar",
+      "question": "İnsanın ilk əhliləşdirdiyi heyvan hansı hesab olunur?",
+      "options": [
+        "Pişik",
+        "İt",
+        "At",
+        "İnək"
+      ],
+      "answer": "İt",
+      "answerIndex": 1
+    },
+    {
+      "id": 383,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Yeməklər",
+      "question": "Dünyanın ən bahalı ədviyyatlarından biri hansıdır?",
+      "options": [
+        "Duz",
+        "Istiot",
+        "Zəfəran",
+        "Darçın"
+      ],
+      "answer": "Zəfəran",
+      "answerIndex": 2
+    },
+    {
+      "id": 384,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Təbiət",
+      "question": "Günəşin enerjisinin əsas mənbəyi nədir?",
+      "options": [
+        "Yanan kömür",
+        "Yanan qaz",
+        "Elektrik cərəyanı",
+        "Hidrogenin heliuma çevrildiyi termonüvə reaksiyaları"
+      ],
+      "answer": "Hidrogenin heliuma çevrildiyi termonüvə reaksiyaları",
+      "answerIndex": 3
+    },
+    {
+      "id": 385,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Təbiət",
+      "question": "Günəş işığı Yerə təxminən neçə dəqiqəyə çatır?",
+      "options": [
+        "8 dəqiqə",
+        "1 dəqiqə",
+        "30 dəqiqə",
+        "1 saat"
+      ],
+      "answer": "8 dəqiqə",
+      "answerIndex": 0
+    },
+    {
+      "id": 386,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Maraqlı məlumatlar",
+      "question": "Azərbaycan xalçaçılıq sənəti UNESCO-nun qeyri-maddi mədəni irs siyahısına neçənci ildə daxil edilib?",
+      "options": [
+        "1990",
+        "2010",
+        "2000",
+        "2020"
+      ],
+      "answer": "2010",
+      "answerIndex": 1
+    },
+    {
+      "id": 387,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Texnologiya",
+      "question": "JSON nədir?",
+      "options": [
+        "Video redaktə proqramı",
+        "Antivirus",
+        "Məlumat mübadiləsi üçün mətn formatı",
+        "Oyun mühərriki"
+      ],
+      "answer": "Məlumat mübadiləsi üçün mətn formatı",
+      "answerIndex": 2
+    },
+    {
+      "id": 388,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Gündəlik həyat",
+      "question": "Suyun donma temperaturu Farenhayt şkalası ilə neçə dərəcədir?",
+      "options": [
+        "0 °F",
+        "100 °F",
+        "212 °F",
+        "32 °F"
+      ],
+      "answer": "32 °F",
+      "answerIndex": 3
+    },
+    {
+      "id": 389,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Təbiət",
+      "question": "Biz hansı qalaktikada yaşayırıq?",
+      "options": [
+        "Süd Yolu",
+        "Andromeda",
+        "Üçbucaq",
+        "Girdab"
+      ],
+      "answer": "Süd Yolu",
+      "answerIndex": 0
+    },
+    {
+      "id": 390,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Atalar sözləri",
+      "question": "“Dəmir isti ikən döyülər” atalar sözü hansı fikri bildirir?",
+      "options": [
+        "Dəmir çox bahalıdır",
+        "Fürsəti əldən verməmək lazımdır",
+        "Dəmirçilik asan sənətdir",
+        "İşi gecikdirmək lazımdır"
+      ],
+      "answer": "Fürsəti əldən verməmək lazımdır",
+      "answerIndex": 1
+    },
+    {
+      "id": 391,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Maraqlı məlumatlar",
+      "question": "Qeyri-səlis çoxluqlar (fuzzy sets) nəzəriyyəsinin banisi olan azərbaycanlı alim kimdir?",
+      "options": [
+        "Azad Mirzəcanzadə",
+        "Yusif Məmmədəliyev",
+        "Lütfi Zadə",
+        "Zərifə Əliyeva"
+      ],
+      "answer": "Lütfi Zadə",
+      "answerIndex": 2
+    },
+    {
+      "id": 392,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "İnsan",
+      "question": "İlk çiçək peyvəndini işləyib hazırlayan həkim kimdir?",
+      "options": [
+        "Lui Paster",
+        "Aleksandr Fleminq",
+        "Robert Kox",
+        "Edvard Cenner"
+      ],
+      "answer": "Edvard Cenner",
+      "answerIndex": 3
+    },
+    {
+      "id": 393,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Yeməklər",
+      "question": "Dünyada ən çox ticarəti edilən ədviyyatlardan biri hansıdır?",
+      "options": [
+        "Qara istiot",
+        "Zəfəran",
+        "Vanil",
+        "Heyl"
+      ],
+      "answer": "Qara istiot",
+      "answerIndex": 0
+    },
+    {
+      "id": 394,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Maraqlı məlumatlar",
+      "question": "Azərbaycan Respublikası Birləşmiş Millətlər Təşkilatına neçənci ildə üzv olub?",
+      "options": [
+        "1991",
+        "1992",
+        "1995",
+        "2000"
+      ],
+      "answer": "1992",
+      "answerIndex": 1
+    },
+    {
+      "id": 395,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Atalar sözləri",
+      "question": "“Gözdən iraq, könüldən iraq” atalar sözü nəyi ifadə edir?",
+      "options": [
+        "Uzaq yerlər gözəldir",
+        "Gözlər çox uzağı görür",
+        "Görüşməyən insanlar zamanla bir-birini unudur",
+        "Könül yalnız yaxınları sevir"
+      ],
+      "answer": "Görüşməyən insanlar zamanla bir-birini unudur",
+      "answerIndex": 2
+    },
+    {
+      "id": 396,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Atalar sözləri",
+      "question": "“Şirin dil ilanı yuvasından çıxarar” atalar sözü nəyi göstərir?",
+      "options": [
+        "İlanlar şirin sevir",
+        "Dil yarası ağırdır",
+        "Yuvaları qorumaq lazımdır",
+        "Xoş sözlə çətin işə nail olmaq olar"
+      ],
+      "answer": "Xoş sözlə çətin işə nail olmaq olar",
+      "answerIndex": 3
+    },
+    {
+      "id": 397,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Heyvanlar",
+      "question": "Dünyanın ən böyük quşu hansıdır?",
+      "options": [
+        "Dəvəquşu",
+        "Albatros",
+        "Kondor",
+        "Emu"
+      ],
+      "answer": "Dəvəquşu",
+      "answerIndex": 0
+    },
+    {
+      "id": 398,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Təbiət",
+      "question": "Günəş sistemində ən isti planet hansıdır?",
+      "options": [
+        "Merkuri",
+        "Venera",
+        "Mars",
+        "Yupiter"
+      ],
+      "answer": "Venera",
+      "answerIndex": 1
+    },
+    {
+      "id": 399,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Maraqlı məlumatlar",
+      "question": "Mixi yazı hansı qədim sivilizasiyada yaranıb?",
+      "options": [
+        "Misirlilərdə",
+        "Romalılarda",
+        "Şumerlərdə",
+        "Yunanlarda"
+      ],
+      "answer": "Şumerlərdə",
+      "answerIndex": 2
+    },
+    {
+      "id": 400,
+      "level": 4,
+      "difficulty": "Çətin",
+      "category": "Heyvanlar",
+      "question": "Sayına görə yer üzündə ən çox olan quş növü hansıdır?",
+      "options": [
+        "Göyərçin",
+        "Sərçə",
+        "Qağayı",
+        "Ev toyuğu"
+      ],
+      "answer": "Ev toyuğu",
+      "answerIndex": 3
+    },
+    {
+      "id": 401,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "İnsan",
+      "question": "Sağlam insan qanının pH göstəricisi təxminən nə qədərdir?",
+      "options": [
+        "7,35–7,45",
+        "1–2",
+        "5–6",
+        "10–11"
+      ],
+      "answer": "7,35–7,45",
+      "answerIndex": 0
+    },
+    {
+      "id": 402,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Heyvanlar",
+      "question": "Mərcanlar hansı aləmə aiddir?",
+      "options": [
+        "Bitkilər aləminə",
+        "Heyvanlar aləminə",
+        "Göbələklər aləminə",
+        "Bakteriyalar aləminə"
+      ],
+      "answer": "Heyvanlar aləminə",
+      "answerIndex": 1
+    },
+    {
+      "id": 403,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "İnsan",
+      "question": "Qanın laxtalanması üçün vacib olan vitamin hansıdır?",
+      "options": [
+        "C vitamini",
+        "D vitamini",
+        "K vitamini",
+        "A vitamini"
+      ],
+      "answer": "K vitamini",
+      "answerIndex": 2
+    },
+    {
+      "id": 404,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Gündəlik həyat",
+      "question": "Günəşdən qoruyucu kremdə SPF göstəricisi nəyi bildirir?",
+      "options": [
+        "Kremin qiymətini",
+        "Kremin qoxusunu",
+        "Kremin həcmini",
+        "Ultrabənövşəyi (UVB) şüalara qarşı qoruma faktorunu"
+      ],
+      "answer": "Ultrabənövşəyi (UVB) şüalara qarşı qoruma faktorunu",
+      "answerIndex": 3
+    },
+    {
+      "id": 405,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Texnologiya",
+      "question": "Asimmetrik şifrələmədə neçə açardan istifadə olunur?",
+      "options": [
+        "2 (açıq və gizli)",
+        "1",
+        "3",
+        "4"
+      ],
+      "answer": "2 (açıq və gizli)",
+      "answerIndex": 0
+    },
+    {
+      "id": 406,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Maraqlı məlumatlar",
+      "question": "Yüzillik müharibə (İngiltərə–Fransa) əslində neçə il çəkib?",
+      "options": [
+        "100",
+        "116",
+        "99",
+        "150"
+      ],
+      "answer": "116",
+      "answerIndex": 1
+    },
+    {
+      "id": 407,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Gündəlik həyat",
+      "question": "Təzyiqli qazan yeməyi niyə daha tez bişirir?",
+      "options": [
+        "Qazan daha qalın olduğuna görə",
+        "Qapaq istiliyi bölüşdürdüyünə görə",
+        "Təzyiq artdıqca suyun qaynama temperaturu yüksəlir",
+        "İçində hava olmadığına görə"
+      ],
+      "answer": "Təzyiq artdıqca suyun qaynama temperaturu yüksəlir",
+      "answerIndex": 2
+    },
+    {
+      "id": 408,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Təbiət",
+      "question": "Ən güclü instrumental qeydə alınmış zəlzələ harada baş verib?",
+      "options": [
+        "Yaponiyada",
+        "Türkiyədə",
+        "İndoneziyada",
+        "Çilidə"
+      ],
+      "answer": "Çilidə",
+      "answerIndex": 3
+    },
+    {
+      "id": 409,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Təbiət",
+      "question": "Yer kürəsinin yaşı təxminən nə qədərdir?",
+      "options": [
+        "4,5 milyard il",
+        "13,8 milyard il",
+        "100 milyon il",
+        "10 milyard il"
+      ],
+      "answer": "4,5 milyard il",
+      "answerIndex": 0
+    },
+    {
+      "id": 410,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Maraqlı məlumatlar",
+      "question": "Qədim dünyanın yeddi möcüzəsindən bu günə qədər qalan yeganə abidə hansıdır?",
+      "options": [
+        "Babilin asma bağları",
+        "Gizə (Xeops) piramidası",
+        "Rodos Koloss",
+        "Zevs heykəli"
+      ],
+      "answer": "Gizə (Xeops) piramidası",
+      "answerIndex": 1
+    },
+    {
+      "id": 411,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Maraqlı məlumatlar",
+      "question": "Vatikandakı Sistina kapellasının tavan rəsmlərini kim çəkib?",
+      "options": [
+        "Leonardo da Vinçi",
+        "Rafael",
+        "Mikelancelo",
+        "Botiçelli"
+      ],
+      "answer": "Mikelancelo",
+      "answerIndex": 2
+    },
+    {
+      "id": 412,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "İnsan",
+      "question": "Neyronlar arasında siqnal ötürülən qovşaq necə adlanır?",
+      "options": [
+        "Akson",
+        "Dendrit",
+        "Nüvə",
+        "Sinaps"
+      ],
+      "answer": "Sinaps",
+      "answerIndex": 3
+    },
+    {
+      "id": 413,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Texnologiya",
+      "question": "İlk proqramçı hesab olunan qadın riyaziyyatçı kimdir?",
+      "options": [
+        "Ada Lavleys",
+        "Mariya Küri",
+        "Qreys Hopper",
+        "Hedi Lamarr"
+      ],
+      "answer": "Ada Lavleys",
+      "answerIndex": 0
+    },
+    {
+      "id": 414,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Maraqlı məlumatlar",
+      "question": "Məhəmməd Füzuli əsərlərini hansı dillərdə yazıb?",
+      "options": [
+        "Yalnız Azərbaycan",
+        "Azərbaycan, fars və ərəb",
+        "Türk, rus və fransız",
+        "Latın və yunan"
+      ],
+      "answer": "Azərbaycan, fars və ərəb",
+      "answerIndex": 1
+    },
+    {
+      "id": 415,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Təbiət",
+      "question": "Günəşdən sonra Yerə ən yaxın ulduz hansıdır?",
+      "options": [
+        "Sirius",
+        "Vega",
+        "Proksima Sentavr",
+        "Betelgeyze"
+      ],
+      "answer": "Proksima Sentavr",
+      "answerIndex": 2
+    },
+    {
+      "id": 416,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Atalar sözləri",
+      "question": "Bir insan bir dəfə zərər gördükdən sonra hər şeyə ehtiyatla yanaşır. Bu vəziyyətə hansı atalar sözü uyğundur?",
+      "options": [
+        "Bir əldən səs çıxmaz",
+        "Dəmir isti ikən döyülər",
+        "Daş yerində ağırdır",
+        "Ağzı yanan qatığı üfürüb içər"
+      ],
+      "answer": "Ağzı yanan qatığı üfürüb içər",
+      "answerIndex": 3
+    },
+    {
+      "id": 417,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Yeməklər",
+      "question": "Sarımsağın xarakterik qoxusunu hansı birləşmə yaradır?",
+      "options": [
+        "Allisin",
+        "Kapsaisin",
+        "Kofein",
+        "Laktoza"
+      ],
+      "answer": "Allisin",
+      "answerIndex": 0
+    },
+    {
+      "id": 418,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Texnologiya",
+      "question": "“Attention Is All You Need” məqaləsində təqdim olunan neyroşəbəkə arxitekturası hansıdır?",
+      "options": [
+        "Perseptron",
+        "Transformer",
+        "Konvolyusiya şəbəkəsi",
+        "Hopfild şəbəkəsi"
+      ],
+      "answer": "Transformer",
+      "answerIndex": 1
+    },
+    {
+      "id": 419,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Heyvanlar",
+      "question": "Lemurlar təbii halda hansı adada yaşayır?",
+      "options": [
+        "Kubada",
+        "Sumatrada",
+        "Madaqaskarda",
+        "Yavada"
+      ],
+      "answer": "Madaqaskarda",
+      "answerIndex": 2
+    },
+    {
+      "id": 420,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Gündəlik həyat",
+      "question": "Məişət dondurucusunda adətən hansı temperatur saxlanılır?",
+      "options": [
+        "Təxminən 0 °C",
+        "Təxminən +4 °C",
+        "Təxminən −50 °C",
+        "Təxminən −18 °C"
+      ],
+      "answer": "Təxminən −18 °C",
+      "answerIndex": 3
+    },
+    {
+      "id": 421,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Maraqlı məlumatlar",
+      "question": "“Leyli və Məcnun” operası (Üzeyir Hacıbəyli) ilk dəfə neçənci ildə tamaşaya qoyulub?",
+      "options": [
+        "1908",
+        "1918",
+        "1890",
+        "1932"
+      ],
+      "answer": "1908",
+      "answerIndex": 0
+    },
+    {
+      "id": 422,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Gündəlik həyat",
+      "question": "Yumurta şirin suda batır, lakin çox duzlu suda üzə bilər. Səbəb nədir?",
+      "options": [
+        "Duz yumurtanı yüngülləşdirir",
+        "Duzlu suyun sıxlığı daha yüksəkdir",
+        "Duzlu su daha soyuqdur",
+        "Yumurta duzu udur"
+      ],
+      "answer": "Duzlu suyun sıxlığı daha yüksəkdir",
+      "answerIndex": 1
+    },
+    {
+      "id": 423,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "İnsan",
+      "question": "Hüceyrədə enerji (ATP) istehsalı əsasən hansı orqanoiddə baş verir?",
+      "options": [
+        "Ribosomda",
+        "Nüvədə",
+        "Mitoxondriyada",
+        "Lizosomda"
+      ],
+      "answer": "Mitoxondriyada",
+      "answerIndex": 2
+    },
+    {
+      "id": 424,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Texnologiya",
+      "question": "Türinq testi nəyi yoxlayır?",
+      "options": [
+        "Kompüterin sürətini",
+        "Proqramın ölçüsünü",
+        "İnternetin sürətini",
+        "Maşının insan kimi davranıb-davranmadığını"
+      ],
+      "answer": "Maşının insan kimi davranıb-davranmadığını",
+      "answerIndex": 3
+    },
+    {
+      "id": 425,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Təbiət",
+      "question": "Kainatın təxminən neçə faizini qaranlıq enerji təşkil edir?",
+      "options": [
+        "Təxminən 68 faiz",
+        "Təxminən 5 faiz",
+        "Təxminən 27 faiz",
+        "Təxminən 100 faiz"
+      ],
+      "answer": "Təxminən 68 faiz",
+      "answerIndex": 0
+    },
+    {
+      "id": 426,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Heyvanlar",
+      "question": "Barmaq izləri insan barmaq izlərinə çox bənzəyən heyvan hansıdır?",
+      "options": [
+        "Pişik",
+        "Koala",
+        "İt",
+        "At"
+      ],
+      "answer": "Koala",
+      "answerIndex": 1
+    },
+    {
+      "id": 427,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Yeməklər",
+      "question": "Tofu hansı bitkinin toxumundan hazırlanır?",
+      "options": [
+        "Qarğıdalı",
+        "Düyü",
+        "Soya",
+        "Buğda"
+      ],
+      "answer": "Soya",
+      "answerIndex": 2
+    },
+    {
+      "id": 428,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "İnsan",
+      "question": "Qan qrupları arasında universal donor hesab olunan qan qrupu hansıdır?",
+      "options": [
+        "AB (IV) Rh müsbət",
+        "A (II) Rh müsbət",
+        "B (III) Rh müsbət",
+        "O (I) Rh mənfi"
+      ],
+      "answer": "O (I) Rh mənfi",
+      "answerIndex": 3
+    },
+    {
+      "id": 429,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Heyvanlar",
+      "question": "Turritopsis dohrnii meduzası hansı qabiliyyəti ilə məşhurdur?",
+      "options": [
+        "Həyat dövrünün əvvəlinə qayıda bilməsi ilə",
+        "Elektrik cərəyanı istehsalı ilə",
+        "Qaranlıqda parlaması ilə",
+        "Quruda yaşaması ilə"
+      ],
+      "answer": "Həyat dövrünün əvvəlinə qayıda bilməsi ilə",
+      "answerIndex": 0
+    },
+    {
+      "id": 430,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Atalar sözləri",
+      "question": "Bir nəfər yaşca kiçik olsa da, çox müdrik fikirlər söyləyir. Hansı atalar sözü uyğundur?",
+      "options": [
+        "Gözdən iraq, könüldən iraq",
+        "Ağıl yaşda deyil, başdadır",
+        "Qonaq gələn ruzi ilə gələr",
+        "Əl əli yuyar, əl də üzü"
+      ],
+      "answer": "Ağıl yaşda deyil, başdadır",
+      "answerIndex": 1
+    },
+    {
+      "id": 431,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "İnsan",
+      "question": "Mədə şirəsinin tərkibindəki əsas turşu hansıdır?",
+      "options": [
+        "Sirkə turşusu",
+        "Limon turşusu",
+        "Xlorid turşusu",
+        "Süd turşusu"
+      ],
+      "answer": "Xlorid turşusu",
+      "answerIndex": 2
+    },
+    {
+      "id": 432,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Atalar sözləri",
+      "question": "Əlverişli fürsət yaranıb və onu gecikdirmədən istifadə etmək lazımdır. Hansı atalar sözü uyğundur?",
+      "options": [
+        "Gözdən iraq, könüldən iraq",
+        "Ağac bar verəndə başını aşağı əyər",
+        "Qorxan gözə çöp düşər",
+        "Dəmir isti ikən döyülər"
+      ],
+      "answer": "Dəmir isti ikən döyülər",
+      "answerIndex": 3
+    },
+    {
+      "id": 433,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Texnologiya",
+      "question": "Linux əməliyyat sisteminin nüvəsini kim yaradıb?",
+      "options": [
+        "Linus Torvalds",
+        "Bill Qeyts",
+        "Stiv Cobs",
+        "Dennis Riçi"
+      ],
+      "answer": "Linus Torvalds",
+      "answerIndex": 0
+    },
+    {
+      "id": 434,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Maraqlı məlumatlar",
+      "question": "Makedoniyalı İskəndərin müəllimi kim olub?",
+      "options": [
+        "Sokrat",
+        "Aristotel",
+        "Platon",
+        "Pifaqor"
+      ],
+      "answer": "Aristotel",
+      "answerIndex": 1
+    },
+    {
+      "id": 435,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "İnsan",
+      "question": "Əzələlərin yığılmasında əsas rol oynayan kimyəvi element hansıdır?",
+      "options": [
+        "Qızıl",
+        "Gümüş",
+        "Kalsium",
+        "Mis"
+      ],
+      "answer": "Kalsium",
+      "answerIndex": 2
+    },
+    {
+      "id": 436,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Maraqlı məlumatlar",
+      "question": "Dünyanın ilk qadın kosmonavtı kimdir?",
+      "options": [
+        "Svetlana Savitskaya",
+        "Sally Rayd",
+        "Yelena Kondakova",
+        "Valentina Tereşkova"
+      ],
+      "answer": "Valentina Tereşkova",
+      "answerIndex": 3
+    },
+    {
+      "id": 437,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Təbiət",
+      "question": "İşıq ili nədir?",
+      "options": [
+        "İşığın bir ildə qət etdiyi məsafə",
+        "Bir ilin uzunluğu",
+        "Ulduzun parlaqlığı",
+        "Günəşin yaşı"
+      ],
+      "answer": "İşığın bir ildə qət etdiyi məsafə",
+      "answerIndex": 0
+    },
+    {
+      "id": 438,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Heyvanlar",
+      "question": "Ən uzun ömürlü onurğalı heyvan hansıdır?",
+      "options": [
+        "Dəniz tısbağası",
+        "Qrenland köpəkbalığı",
+        "Fil",
+        "Dəvə"
+      ],
+      "answer": "Qrenland köpəkbalığı",
+      "answerIndex": 1
+    },
+    {
+      "id": 439,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Texnologiya",
+      "question": "Proqramlaşdırmada “Big O” qeydiyyatı nəyi ifadə edir?",
+      "options": [
+        "Fayl ölçüsünü",
+        "Ekran həllini",
+        "Alqoritmin mürəkkəbliyini (artım sürətini)",
+        "Şəbəkə sürətini"
+      ],
+      "answer": "Alqoritmin mürəkkəbliyini (artım sürətini)",
+      "answerIndex": 2
+    },
+    {
+      "id": 440,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Atalar sözləri",
+      "question": "Mühüm qərar verməzdən əvvəl hərtərəfli düşünmək lazımdır. Hansı atalar sözü uyğundur?",
+      "options": [
+        "Bir əldən səs çıxmaz",
+        "Dağ dağa qovuşmaz, adam adama qovuşar",
+        "Su axar, çuxurunu tapar",
+        "Yeddi ölç, bir biç"
+      ],
+      "answer": "Yeddi ölç, bir biç",
+      "answerIndex": 3
+    },
+    {
+      "id": 441,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Maraqlı məlumatlar",
+      "question": "Konstantinopol (İstanbul) neçənci ildə fəth edilib?",
+      "options": [
+        "1453",
+        "1492",
+        "1389",
+        "1517"
+      ],
+      "answer": "1453",
+      "answerIndex": 0
+    },
+    {
+      "id": 442,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Yeməklər",
+      "question": "Süd şəkəri necə adlanır?",
+      "options": [
+        "Qlükoza",
+        "Laktoza",
+        "Fruktoza",
+        "Saxaroza"
+      ],
+      "answer": "Laktoza",
+      "answerIndex": 1
+    },
+    {
+      "id": 443,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Heyvanlar",
+      "question": "Güzgü testində özünü tanıyan heyvanlardan biri hansıdır?",
+      "options": [
+        "Toyuq",
+        "Pişik",
+        "Delfin",
+        "İnək"
+      ],
+      "answer": "Delfin",
+      "answerIndex": 2
+    },
+    {
+      "id": 444,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Yeməklər",
+      "question": "Zəfərandan sonra ən bahalı ədviyyatlardan biri hansıdır?",
+      "options": [
+        "Qara istiot",
+        "Duz",
+        "Darçın",
+        "Vanil"
+      ],
+      "answer": "Vanil",
+      "answerIndex": 3
+    },
+    {
+      "id": 445,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Təbiət",
+      "question": "Yer qabığında ən çox yayılmış element hansıdır?",
+      "options": [
+        "Oksigen",
+        "Dəmir",
+        "Silisium",
+        "Alüminium"
+      ],
+      "answer": "Oksigen",
+      "answerIndex": 0
+    },
+    {
+      "id": 446,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Maraqlı məlumatlar",
+      "question": "Qadınlara seçki hüququ verən ilk müsəlman Şərq ölkəsi hansıdır?",
+      "options": [
+        "Türkiyə",
+        "Azərbaycan Xalq Cümhuriyyəti",
+        "İran",
+        "Misir"
+      ],
+      "answer": "Azərbaycan Xalq Cümhuriyyəti",
+      "answerIndex": 1
+    },
+    {
+      "id": 447,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Atalar sözləri",
+      "question": "Başqasına pislik etmək istəyən özü bu pisliyin qurbanı olur. Hansı atalar sözü uyğundur?",
+      "options": [
+        "Axtaran tapar",
+        "Əl əli yuyar, əl də üzü",
+        "Quyu qazan özü düşər",
+        "Bu günün işini sabaha qoyma"
+      ],
+      "answer": "Quyu qazan özü düşər",
+      "answerIndex": 2
+    },
+    {
+      "id": 448,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Təbiət",
+      "question": "Böyük Partlayış (Big Bang) nəzəriyyəsinə görə Kainatın yaşı təxminən nə qədərdir?",
+      "options": [
+        "4,5 milyard il",
+        "1 milyard il",
+        "100 milyard il",
+        "13,8 milyard il"
+      ],
+      "answer": "13,8 milyard il",
+      "answerIndex": 3
+    },
+    {
+      "id": 449,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "İnsan",
+      "question": "DNT-də adenin hansı azotlu əsasla cütləşir?",
+      "options": [
+        "Timin",
+        "Sitozin",
+        "Quanin",
+        "Urasil"
+      ],
+      "answer": "Timin",
+      "answerIndex": 0
+    },
+    {
+      "id": 450,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Atalar sözləri",
+      "question": "Bu günkü işi sabaha saxlamaq istəyən insana hansı atalar sözünü demək olar?",
+      "options": [
+        "Qorxan gözə çöp düşər",
+        "Bu günün işini sabaha qoyma",
+        "Daş yerində ağırdır",
+        "Axtaran tapar"
+      ],
+      "answer": "Bu günün işini sabaha qoyma",
+      "answerIndex": 1
+    },
+    {
+      "id": 451,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "İnsan",
+      "question": "Ribosomların əsas vəzifəsi nədir?",
+      "options": [
+        "Enerji saxlanması",
+        "Yağ yığılması",
+        "Zülal sintezi",
+        "İrsi məlumatın saxlanması"
+      ],
+      "answer": "Zülal sintezi",
+      "answerIndex": 2
+    },
+    {
+      "id": 452,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Təbiət",
+      "question": "Yer atmosferinin təxminən neçə faizini oksigen təşkil edir?",
+      "options": [
+        "Təxminən 78 faiz",
+        "Təxminən 50 faiz",
+        "Təxminən 1 faiz",
+        "Təxminən 21 faiz"
+      ],
+      "answer": "Təxminən 21 faiz",
+      "answerIndex": 3
+    },
+    {
+      "id": 453,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Atalar sözləri",
+      "question": "Elmdə və mövqedə yüksəlmiş insan öz təvazökarlığını qoruyur. Hansı atalar sözü uyğundur?",
+      "options": [
+        "Ağac bar verəndə başını aşağı əyər",
+        "Ağzı yanan qatığı üfürüb içər",
+        "Dəmir isti ikən döyülər",
+        "Bir əldən səs çıxmaz"
+      ],
+      "answer": "Ağac bar verəndə başını aşağı əyər",
+      "answerIndex": 0
+    },
+    {
+      "id": 454,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "İnsan",
+      "question": "Qreqor Mendel irsiyyət qanunlarını hansı bitki üzərində apardığı təcrübələrlə kəşf edib?",
+      "options": [
+        "Buğda",
+        "Noxud",
+        "Qarğıdalı",
+        "Pomidor"
+      ],
+      "answer": "Noxud",
+      "answerIndex": 1
+    },
+    {
+      "id": 455,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Gündəlik həyat",
+      "question": "Dəniz səviyyəsindən çox yüksəkdə suyun qaynama temperaturu necə olur?",
+      "options": [
+        "Artır",
+        "Dəyişmir",
+        "Azalır",
+        "Sıfıra düşür"
+      ],
+      "answer": "Azalır",
+      "answerIndex": 2
+    },
+    {
+      "id": 456,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Heyvanlar",
+      "question": "Bəzi timsah növlərində balaların cinsiyyəti nədən asılıdır?",
+      "options": [
+        "Yumurtanın rəngindən",
+        "Ana timsahın yaşından",
+        "Suyun duzluluğundan",
+        "Yumurtanın inkubasiya temperaturundan"
+      ],
+      "answer": "Yumurtanın inkubasiya temperaturundan",
+      "answerIndex": 3
+    },
+    {
+      "id": 457,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Texnologiya",
+      "question": "İkilik say sistemində 1111 ədədi onluq sistemdə neçəyə bərabərdir?",
+      "options": [
+        "15",
+        "11",
+        "16",
+        "8"
+      ],
+      "answer": "15",
+      "answerIndex": 0
+    },
+    {
+      "id": 458,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Təbiət",
+      "question": "Azərbaycan nəyin sayına görə dünyada ən zəngin ölkələrdən biridir?",
+      "options": [
+        "Vulkan dağlarının",
+        "Palçıq vulkanlarının",
+        "Buzlaqların",
+        "Mərcan adalarının"
+      ],
+      "answer": "Palçıq vulkanlarının",
+      "answerIndex": 1
+    },
+    {
+      "id": 459,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Maraqlı məlumatlar",
+      "question": "Qərbi Roma imperiyası neçənci ildə süqut etmiş hesab olunur?",
+      "options": [
+        "1453",
+        "395",
+        "476",
+        "800"
+      ],
+      "answer": "476",
+      "answerIndex": 2
+    },
+    {
+      "id": 460,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Texnologiya",
+      "question": "Aşağıdakı proqramlaşdırma dillərindən hansı Google tərəfindən yaradılıb?",
+      "options": [
+        "Swift",
+        "Rust",
+        "Ruby",
+        "Go"
+      ],
+      "answer": "Go",
+      "answerIndex": 3
+    },
+    {
+      "id": 461,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Yeməklər",
+      "question": "Qızartma zamanı yeməyə qəhvəyi rəng və xoş ətir verən Mayyar (Maillard) reaksiyası nəyin arasında baş verir?",
+      "options": [
+        "Amin turşuları ilə şəkərlər arasında",
+        "Su ilə duz arasında",
+        "Yağ ilə sirkə arasında",
+        "Nişasta ilə kalsium arasında"
+      ],
+      "answer": "Amin turşuları ilə şəkərlər arasında",
+      "answerIndex": 0
+    },
+    {
+      "id": 462,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "İnsan",
+      "question": "Hansı azotlu əsas DNT-də yoxdur, lakin RNT-də var?",
+      "options": [
+        "Timin",
+        "Urasil",
+        "Adenin",
+        "Quanin"
+      ],
+      "answer": "Urasil",
+      "answerIndex": 1
+    },
+    {
+      "id": 463,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Heyvanlar",
+      "question": "Ən güclü ölçülmüş dişləmə qüvvəsinə malik heyvan hansıdır?",
+      "options": [
+        "Aslan",
+        "Pələng",
+        "Duzlu su timsahı",
+        "Qurd"
+      ],
+      "answer": "Duzlu su timsahı",
+      "answerIndex": 2
+    },
+    {
+      "id": 464,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Texnologiya",
+      "question": "DNS sisteminin əsas vəzifəsi nədir?",
+      "options": [
+        "Faylları sıxmaq",
+        "Video yayımlamaq",
+        "Elektron poçtu şifrələmək",
+        "Domen adlarını IP ünvanlara çevirmək"
+      ],
+      "answer": "Domen adlarını IP ünvanlara çevirmək",
+      "answerIndex": 3
+    },
+    {
+      "id": 465,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Təbiət",
+      "question": "Plüton hansı ildə cırtdan planet statusu aldı?",
+      "options": [
+        "2006",
+        "1990",
+        "2015",
+        "1930"
+      ],
+      "answer": "2006",
+      "answerIndex": 0
+    },
+    {
+      "id": 466,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Heyvanlar",
+      "question": "Tardiqradlar (su ayıları) nə ilə məşhurdur?",
+      "options": [
+        "Ən sürətli qaçışı ilə",
+        "Həddindən artıq ekstremal şəraitə dözümlülüyü ilə",
+        "Ən böyük ölçüsü ilə",
+        "Ən uca səsi ilə"
+      ],
+      "answer": "Həddindən artıq ekstremal şəraitə dözümlülüyü ilə",
+      "answerIndex": 1
+    },
+    {
+      "id": 467,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Gündəlik həyat",
+      "question": "Sabun yağlı çirki necə təmizləyir?",
+      "options": [
+        "Yağı kimyəvi yolla yandırır",
+        "Yağı dondurur",
+        "Molekulunun bir ucu yağa, digər ucu suya yatqındır",
+        "Yağı buxarlandırır"
+      ],
+      "answer": "Molekulunun bir ucu yağa, digər ucu suya yatqındır",
+      "answerIndex": 2
+    },
+    {
+      "id": 468,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Maraqlı məlumatlar",
+      "question": "ABŞ-ın Müstəqillik Bəyannaməsi neçənci ildə qəbul edilib?",
+      "options": [
+        "1789",
+        "1812",
+        "1865",
+        "1776"
+      ],
+      "answer": "1776",
+      "answerIndex": 3
+    },
+    {
+      "id": 469,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Atalar sözləri",
+      "question": "Böyük işi tək insan görə bilmir, birgə əməkdaşlıq lazımdır. Hansı atalar sözü uyğundur?",
+      "options": [
+        "Bir əldən səs çıxmaz",
+        "Quyu qazan özü düşər",
+        "Ac toyuq yuxusunda darı görər",
+        "Yeddi ölç, bir biç"
+      ],
+      "answer": "Bir əldən səs çıxmaz",
+      "answerIndex": 0
+    },
+    {
+      "id": 470,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Maraqlı məlumatlar",
+      "question": "Dünyanın ən qədim yazılı epik əsərlərindən biri sayılan dastan hansıdır?",
+      "options": [
+        "İliada",
+        "Gilqameş dastanı",
+        "Odisseya",
+        "Şahnamə"
+      ],
+      "answer": "Gilqameş dastanı",
+      "answerIndex": 1
+    },
+    {
+      "id": 471,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Texnologiya",
+      "question": "Heş (hash) funksiyası nə edir?",
+      "options": [
+        "Məlumatı videoya çevirir",
+        "Elektrik gərginliyini ölçür",
+        "Məlumatdan sabit uzunluqlu “barmaq izi” yaradır",
+        "Faylı fiziki olaraq silir"
+      ],
+      "answer": "Məlumatdan sabit uzunluqlu “barmaq izi” yaradır",
+      "answerIndex": 2
+    },
+    {
+      "id": 472,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Maraqlı məlumatlar",
+      "question": "1501-ci ildə Səfəvi dövlətinin əsasını kim qoyub?",
+      "options": [
+        "Şah Abbas",
+        "Şah Təhmasib",
+        "Nadir şah",
+        "Şah İsmayıl Xətai"
+      ],
+      "answer": "Şah İsmayıl Xətai",
+      "answerIndex": 3
+    },
+    {
+      "id": 473,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Təbiət",
+      "question": "Saturnun peyki Titan hansı xüsusiyyəti ilə seçilir?",
+      "options": [
+        "Qalın azotlu atmosferi ilə",
+        "Üzükləri ilə",
+        "Böyük su okeanları ilə",
+        "Qırmızı rəngi ilə"
+      ],
+      "answer": "Qalın azotlu atmosferi ilə",
+      "answerIndex": 0
+    },
+    {
+      "id": 474,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "İnsan",
+      "question": "REM mərhələsi yuxunun hansı xüsusiyyəti ilə xarakterizə olunur?",
+      "options": [
+        "Tam sakitlik və yuxusuzluq",
+        "Sürətli göz hərəkətləri və canlı yuxular",
+        "Dərin sümük böyüməsi",
+        "Mədə həzmi"
+      ],
+      "answer": "Sürətli göz hərəkətləri və canlı yuxular",
+      "answerIndex": 1
+    },
+    {
+      "id": 475,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Təbiət",
+      "question": "Günəş sisteminin ən böyük təbii peyki hansıdır?",
+      "options": [
+        "Titan",
+        "Ay",
+        "Qanimed",
+        "Evropa"
+      ],
+      "answer": "Qanimed",
+      "answerIndex": 2
+    },
+    {
+      "id": 476,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Maraqlı məlumatlar",
+      "question": "Azərbaycanın ilk milli qəzeti “Əkinçi” neçənci ildə nəşrə başlayıb?",
+      "options": [
+        "1905",
+        "1832",
+        "1918",
+        "1875"
+      ],
+      "answer": "1875",
+      "answerIndex": 3
+    },
+    {
+      "id": 477,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Heyvanlar",
+      "question": "Dünyada ən böyük yumurtanı hansı quş qoyur?",
+      "options": [
+        "Dəvəquşu",
+        "Qartal",
+        "Albatros",
+        "Pinqvin"
+      ],
+      "answer": "Dəvəquşu",
+      "answerIndex": 0
+    },
+    {
+      "id": 478,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Gündəlik həyat",
+      "question": "24 əyarlı qızıl nə deməkdir?",
+      "options": [
+        "Yarısı qızıl",
+        "Demək olar ki, təmiz qızıl",
+        "Qızıl–gümüş ərintisi",
+        "Qızıl suyuna salınmış metal"
+      ],
+      "answer": "Demək olar ki, təmiz qızıl",
+      "answerIndex": 1
+    },
+    {
+      "id": 479,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Maraqlı məlumatlar",
+      "question": "İki fərqli elm sahəsində (fizika və kimya) Nobel mükafatı almış qadın alim kimdir?",
+      "options": [
+        "Rozalind Franklin",
+        "Lise Meytner",
+        "Mariya Küri",
+        "Ada Lavleys"
+      ],
+      "answer": "Mariya Küri",
+      "answerIndex": 2
+    },
+    {
+      "id": 480,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Maraqlı məlumatlar",
+      "question": "Hammurapi qanunları hansı qədim dövlətə aiddir?",
+      "options": [
+        "Misirə",
+        "Romaya",
+        "Yunanıstana",
+        "Babilə"
+      ],
+      "answer": "Babilə",
+      "answerIndex": 3
+    },
+    {
+      "id": 481,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Maraqlı məlumatlar",
+      "question": "Böyük Səlcuqlu dövlətinin əsasını qoyan hökmdar kimdir?",
+      "options": [
+        "Toğrul bəy",
+        "Alp Arslan",
+        "Məlikşah",
+        "Sultan Sancar"
+      ],
+      "answer": "Toğrul bəy",
+      "answerIndex": 0
+    },
+    {
+      "id": 482,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Texnologiya",
+      "question": "Hansı məlumat strukturu “son daxil olan ilk çıxır” (LIFO) prinsipi ilə işləyir?",
+      "options": [
+        "Növbə",
+        "Stek",
+        "Massiv",
+        "Qraf"
+      ],
+      "answer": "Stek",
+      "answerIndex": 1
+    },
+    {
+      "id": 483,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Heyvanlar",
+      "question": "Bir işçi bal arısı bütün ömrü boyu təxminən nə qədər bal istehsal edir?",
+      "options": [
+        "Təxminən 1 stəkan",
+        "Təxminən 1 kiloqram",
+        "Təxminən 1/12 çay qaşığı",
+        "Təxminən 100 qram"
+      ],
+      "answer": "Təxminən 1/12 çay qaşığı",
+      "answerIndex": 2
+    },
+    {
+      "id": 484,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Təbiət",
+      "question": "Yerin maqnit sahəsinin yaranmasında əsas rol oynayan nədir?",
+      "options": [
+        "Ayın cazibəsi",
+        "Atmosfer küləkləri",
+        "Okean axınları",
+        "Maye xarici nüvənin hərəkəti"
+      ],
+      "answer": "Maye xarici nüvənin hərəkəti",
+      "answerIndex": 3
+    },
+    {
+      "id": 485,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Yeməklər",
+      "question": "Dünyada ən çox çay istehsal edən ölkə hansıdır?",
+      "options": [
+        "Çin",
+        "Hindistan",
+        "Şri-Lanka",
+        "Keniya"
+      ],
+      "answer": "Çin",
+      "answerIndex": 0
+    },
+    {
+      "id": 486,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Heyvanlar",
+      "question": "Ən sürətli üzən balıqlardan biri hansıdır?",
+      "options": [
+        "Siyənək",
+        "Yelkənli balıq",
+        "Kefal",
+        "Çapaq"
+      ],
+      "answer": "Yelkənli balıq",
+      "answerIndex": 1
+    },
+    {
+      "id": 487,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Maraqlı məlumatlar",
+      "question": "“Kitabi-Dədə Qorqud” dastanının əlyazma nüsxələri hazırda harada saxlanılır?",
+      "options": [
+        "London və Paris muzeylərində",
+        "Moskva və Sankt-Peterburqda",
+        "Drezden və Vatikan kitabxanalarında",
+        "Tehran və İstanbulda"
+      ],
+      "answer": "Drezden və Vatikan kitabxanalarında",
+      "answerIndex": 2
+    },
+    {
+      "id": 488,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Yeməklər",
+      "question": "Çayda və kofedə olan stimullaşdırıcı maddə hansıdır?",
+      "options": [
+        "Laktoza",
+        "Kapsaisin",
+        "Askorbin turşusu",
+        "Kofein"
+      ],
+      "answer": "Kofein",
+      "answerIndex": 3
+    },
+    {
+      "id": 489,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Maraqlı məlumatlar",
+      "question": "Kimyəvi elementlərin dövri sistemini kim yaradıb?",
+      "options": [
+        "Dmitri Mendeleyev",
+        "Antuan Lavuazye",
+        "Nils Bor",
+        "Mariya Küri"
+      ],
+      "answer": "Dmitri Mendeleyev",
+      "answerIndex": 0
+    },
+    {
+      "id": 490,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Təbiət",
+      "question": "Marsda yerləşən və Günəş sisteminin ən hündür dağı sayılan dağ hansıdır?",
+      "options": [
+        "Everest",
+        "Olimp dağı",
+        "Elbrus",
+        "Kilimancaro"
+      ],
+      "answer": "Olimp dağı",
+      "answerIndex": 1
+    },
+    {
+      "id": 491,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Yeməklər",
+      "question": "Acı bibərin acılığını hansı birləşmə verir?",
+      "options": [
+        "Allisin",
+        "Kofein",
+        "Kapsaisin",
+        "Laktoza"
+      ],
+      "answer": "Kapsaisin",
+      "answerIndex": 2
+    },
+    {
+      "id": 492,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Maraqlı məlumatlar",
+      "question": "Nobel qardaşlarının Bakıda yaratdığı məşhur neft şirkəti necə adlanırdı?",
+      "options": [
+        "Lukoyl",
+        "Britiş Petroleum",
+        "Şell",
+        "Branobel"
+      ],
+      "answer": "Branobel",
+      "answerIndex": 3
+    },
+    {
+      "id": 493,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Texnologiya",
+      "question": "Elektron poçtda ünvanı istifadəçi adından ayırmaq üçün @ simvolunu ilk tətbiq edən mühəndis kimdir?",
+      "options": [
+        "Rey Tomlinson",
+        "Tim Berners-Li",
+        "Linus Torvalds",
+        "Vint Serf"
+      ],
+      "answer": "Rey Tomlinson",
+      "answerIndex": 0
+    },
+    {
+      "id": 494,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Texnologiya",
+      "question": "HTTPS üçün standart port nömrəsi neçədir?",
+      "options": [
+        "80",
+        "443",
+        "21",
+        "25"
+      ],
+      "answer": "443",
+      "answerIndex": 1
+    },
+    {
+      "id": 495,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "İnsan",
+      "question": "Beynin iki yarımkürəsini birləşdirən struktur necə adlanır?",
+      "options": [
+        "Hipokamp",
+        "Beyincik",
+        "Korpus kallosum",
+        "Hipotalamus"
+      ],
+      "answer": "Korpus kallosum",
+      "answerIndex": 2
+    },
+    {
+      "id": 496,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Texnologiya",
+      "question": "GPS ilə yer təyin etmək üçün minimum neçə peykdən siqnal tələb olunur?",
+      "options": [
+        "1",
+        "2",
+        "10",
+        "4"
+      ],
+      "answer": "4",
+      "answerIndex": 3
+    },
+    {
+      "id": 497,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Atalar sözləri",
+      "question": "Sərt söz insanı fiziki zərbədən də çox incidə bilər. Hansı atalar sözü uyğundur?",
+      "options": [
+        "Qılınc yarası sağalar, dil yarası sağalmaz",
+        "Quyu qazan özü düşər",
+        "Yeddi ölç, bir biç",
+        "Daş yerində ağırdır"
+      ],
+      "answer": "Qılınc yarası sağalar, dil yarası sağalmaz",
+      "answerIndex": 0
+    },
+    {
+      "id": 498,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Heyvanlar",
+      "question": "Xəzər dənizində yaşayan yeganə məməli heyvan hansıdır?",
+      "options": [
+        "Delfin",
+        "Xəzər suitisi",
+        "Qütb ayısı",
+        "Dəniz aslanı"
+      ],
+      "answer": "Xəzər suitisi",
+      "answerIndex": 1
+    },
+    {
+      "id": 499,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "İnsan",
+      "question": "Beyində yaddaşın formalaşması ilə ən sıx bağlı olan struktur hansıdır?",
+      "options": [
+        "Beyincik",
+        "Onurğa beyni",
+        "Hipokamp",
+        "Qalxanabənzər vəzi"
+      ],
+      "answer": "Hipokamp",
+      "answerIndex": 2
+    },
+    {
+      "id": 500,
+      "level": 5,
+      "difficulty": "Çox çətin",
+      "category": "Gündəlik həyat",
+      "question": "Mikrodalğalı soba yeməyi necə qızdırır?",
+      "options": [
+        "Yalnız alovla",
+        "Yalnız səthi yandıraraq",
+        "Yalnız buxarla",
+        "Əsasən su molekullarını titrədərək"
+      ],
+      "answer": "Əsasən su molekullarını titrədərək",
+      "answerIndex": 3
+    }
+  ]
+}
